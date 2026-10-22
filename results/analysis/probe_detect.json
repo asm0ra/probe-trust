@@ -1,0 +1,50 @@
+{
+ "metr_la|c|all": {
+  "logreg": 0.97148225,
+  "boosting": 0.9981519999999999
+ },
+ "metr_la|c|matched": {
+  "logreg": 0.8903705,
+  "boosting": 0.979225
+ },
+ "metr_la|f|all": {
+  "logreg": 0.8326029999999999,
+  "boosting": 0.9559225
+ },
+ "metr_la|f|matched": {
+  "logreg": 0.69730875,
+  "boosting": 0.956813
+ },
+ "pems_bay|c|all": {
+  "logreg": 0.9664951250000001,
+  "boosting": 0.9987152499999999
+ },
+ "pems_bay|c|matched": {
+  "logreg": 0.828886,
+  "boosting": 0.9907625000000001
+ },
+ "pems_bay|f|all": {
+  "logreg": 0.9107975,
+  "boosting": 0.9814427499999999
+ },
+ "pems_bay|f|matched": {
+  "logreg": 0.8911412500000001,
+  "boosting": 0.9896125
+ },
+ "pemsd7m|c|all": {
+  "logreg": 0.9788952500000001,
+  "boosting": 0.9970925
+ },
+ "pemsd7m|c|matched": {
+  "logreg": 0.87760075,
+  "boosting": 0.983538
+ },
+ "pemsd7m|f|all": {
+  "logreg": 0.94140825,
+  "boosting": 0.979704
+ },
+ "pemsd7m|f|matched": {
+  "logreg": 0.9028817500000001,
+  "boosting": 0.9676315
+ }
+}

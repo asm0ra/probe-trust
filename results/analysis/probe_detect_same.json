@@ -1,0 +1,26 @@
+{
+ "metr_la|c|matched": {
+  "logreg": 0.50920725,
+  "boosting": 0.783859
+ },
+ "metr_la|f|matched": {
+  "logreg": 0.661632125,
+  "boosting": 0.72421875
+ },
+ "pems_bay|c|matched": {
+  "logreg": 0.521276125,
+  "boosting": 0.72916275
+ },
+ "pems_bay|f|matched": {
+  "logreg": 0.520978875,
+  "boosting": 0.5954261249999999
+ },
+ "pemsd7m|c|matched": {
+  "logreg": 0.52897675,
+  "boosting": 0.779587
+ },
+ "pemsd7m|f|matched": {
+  "logreg": 0.550572875,
+  "boosting": 0.61826775
+ }
+}

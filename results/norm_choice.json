@@ -1,0 +1,1 @@
+{"delta": 0.5, "tau": 0.1, "worst_harm_pct": -0.5041603934491989, "clean_overhead_pct": -0.5257737474289426, "rule": "within 1 pp of best worst-case harm -> largest delta, then largest tau; tuned on METR-LA seeds 100-101 only"}

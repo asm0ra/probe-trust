@@ -1,0 +1,274 @@
+{
+ "mcmahan17": {
+  "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data",
+  "year": 2016,
+  "venue": "arXiv (Cornell University)",
+  "authors": "H. Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas",
+  "doi": "https://doi.org/10.48550/arxiv.1602.05629",
+  "match": "✓"
+ },
+ "krum17": {
+  "title": "Machine learning with adversaries: byzantine tolerant gradient descent",
+  "year": 2017,
+  "venue": "neural information processing systems",
+  "authors": "Peva Blanchard, El Mahdi El Mhamdi, Rachid Guerraoui, Julien Stainer",
+  "doi": null,
+  "match": "✓"
+ },
+ "yin18": {
+  "title": "Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates",
+  "year": 2018,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Dong Yin, Yudong Chen, Kannan Ramchandran, Peter L. Bartlett",
+  "doi": "https://doi.org/10.48550/arxiv.1803.01498",
+  "match": "✓"
+ },
+ "fltrust21": {
+  "title": "FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping",
+  "year": 2021,
+  "venue": "Network and Distributed System Security Symposium",
+  "authors": "Xiaoyu Cao, Minghong Fang, Jia Liu, Neil Zhenqiang Gong",
+  "doi": "https://doi.org/10.14722/ndss.2021.24434",
+  "match": "✓"
+ },
+ "rohfl23": {
+  "title": "Toward Robust Hierarchical Federated Learning in Internet of Vehicles",
+  "year": 2023,
+  "venue": "IEEE Transactions on Intelligent Transportation Systems",
+  "authors": "Hongliang Zhou, Yifeng Zheng, Hejiao Huang, Jiangang Shu, Xiaohua Jia",
+  "doi": "https://doi.org/10.1109/tits.2023.3243003",
+  "match": "✓"
+ },
+ "securegraphfl25": {
+  "title": "SecureGraphFL: A Privacy-Preserving and Attack-Resilient Federated Learning Framework for Traffic Prediction",
+  "year": 2025,
+  "venue": "IEEE Internet of Things Journal",
+  "authors": "Guihong Chen, Mingyong Tong, Jiao Yin, Maojie Wang, Jinli Cao …",
+  "doi": "https://doi.org/10.1109/jiot.2025.3599568",
+  "match": "✓"
+ },
+ "wireless24": {
+  "title": "Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction",
+  "year": 2024,
+  "venue": "IFIP Networking Conference (IFIP Networking)",
+  "authors": "Zifan Zhang, Minghong Fang, Jiayuan Huang, Yuchen Liu",
+  "doi": "https://doi.org/10.23919/ifipnetworking62109.2024.10619763",
+  "match": "✓"
+ },
+ "flare25": {
+  "title": "FLARE: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning",
+  "year": 2025,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Younesi, Abolfazl, Kiss, Leon, Samani, Zahra Najafabadi, Poveda, Juan Aznar, Fahringer, Thomas",
+  "doi": "https://doi.org/10.48550/arxiv.2511.14715",
+  "match": "✓"
+ },
+ "dcrnn18": {
+  "title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting",
+  "year": 2017,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Li, Yaguang, Rose Yu, Cyrus Shahabi, Yan Liu",
+  "doi": "https://doi.org/10.48550/arxiv.1707.01926",
+  "match": "✓"
+ },
+ "stgcn18": {
+  "title": "Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting",
+  "year": 2018,
+  "venue": "International Joint Conference on Artificial Intelligence",
+  "authors": "Bing Yu, Haoteng Yin, Zhanxing Zhu",
+  "doi": "https://doi.org/10.24963/ijcai.2018/505",
+  "match": "✓"
+ },
+ "cpwbft25": {
+  "title": "Rethinking the Reliability of Multi-agent System: A Perspective from Byzantine Fault Tolerance",
+  "year": 2026,
+  "venue": "Underline Science Inc.",
+  "authors": "Association for Artificial Intelligence 2026, Jiawei Chen, Yu Tian, Yin, Qinghong, Xinyi Zeng …",
+  "doi": "https://doi.org/10.48448/4ekk-3m89",
+  "match": "✓"
+ },
+ "sac26": {
+  "title": "Robust Multi-Agent LLMs under Byzantine Faults",
+  "year": 2026,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Haejoon Lee, Vincent-Daniel Yun, Dimitra Panagou, Sai Praneeth Karimireddy",
+  "doi": "https://doi.org/10.48550/arxiv.2605.09076",
+  "match": "✓"
+ },
+ "atrust25": {
+  "title": "To trust or not to trust: Attention-based Trust Management for LLM Multi-Agent Systems",
+  "year": 2025,
+  "venue": "arXiv (Cornell University)",
+  "authors": "He, Pengfei, Zhenwei Dai, Xianfeng Tang, Xing, Yue, Hui Liu …",
+  "doi": "https://doi.org/10.48550/arxiv.2506.02546",
+  "match": "✓"
+ },
+ "springdrift26": {
+  "title": "Springdrift: An Auditable Persistent Runtime for LLM Agents with Case-Based Memory, Normative Safety, and Ambient Self-Perception",
+  "year": 2026,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Seamus Brady",
+  "doi": "https://doi.org/10.48550/arxiv.2604.04660",
+  "match": "✓"
+ },
+ "trustprop26": {
+  "title": "Trust propagation and structural containment in Multi-agent LLM pipelines",
+  "year": 2026,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Tanzim Hossain Safin, Sharif Noor Zisad, Swakkhar Shatabda, Ragib Hasan",
+  "doi": null,
+  "match": "✓"
+ },
+ "rsmooth25": {
+  "title": "Enhancing robustness of LLM-driven multi-agent systems through randomized smoothing",
+  "year": 2025,
+  "venue": "Chinese Journal of Aeronautics",
+  "authors": "Jinwei Hu, Yi Dong, Zhengtao Ding, Xiaowei Huang",
+  "doi": "https://doi.org/10.1016/j.cja.2025.103779",
+  "match": "✓"
+ },
+ "survey21": {
+  "title": "A survey on federated learning",
+  "year": 2021,
+  "venue": "Knowledge-Based Systems",
+  "authors": "Chen Bo Calvin Zhang, Yu Xie, Hang Bai, Bin Yu, Weihong Li …",
+  "doi": "https://doi.org/10.1016/j.knosys.2021.106775",
+  "match": "✓"
+ },
+ "bulyan18": {
+  "title": "The Hidden Vulnerability of Distributed Learning in Byzantium",
+  "year": 2018,
+  "venue": "arXiv (Cornell University)",
+  "authors": "El Mahdi El Mhamdi, Rachid Guerraoui, Sébastien Rouault",
+  "doi": "https://doi.org/10.48550/arxiv.1802.07927",
+  "match": "✓"
+ },
+ "foolsgold20": {
+  "title": "The Limitations of Federated Learning in Sybil Settings",
+  "year": 2020,
+  "venue": "Recent Advances in Intrusion Detection",
+  "authors": "Clement Fung, Chris J. M. Yoon, Ivan Beschastnikh",
+  "doi": null,
+  "match": "✓"
+ },
+ "alie19": {
+  "title": "A Little Is Enough: Circumventing Defenses For Distributed Learning",
+  "year": 2019,
+  "venue": "neural information processing systems",
+  "authors": "Gilad Baruch, Moran Baruch, Yoav Goldberg",
+  "doi": null,
+  "match": "✓"
+ },
+ "qwen3": {
+  "title": "Qwen3 Technical Report",
+  "year": 2025,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Yang, An, A. Li, Baosong Yang, Beichen Zhang, Binyuan Hui …",
+  "doi": "https://doi.org/10.48550/arxiv.2505.09388",
+  "match": "✓"
+ },
+ "zafar25": {
+  "title": "Byzantine-Robust Federated Learning Using Generative Adversarial Networks",
+  "year": 2025,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Usama Zafar, Andre M. H. Teixeira, Salman Zubair TOOR",
+  "doi": "https://doi.org/10.48550/arxiv.2503.20884",
+  "match": "✓"
+ },
+ "fedfg26": {
+  "title": "FedFG: Privacy-Preserving and Robust Federated Learning via Flow-Matching Generation",
+  "year": 2026,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Ruiyang Wang, Rong Pan, ZhengAn YAO",
+  "doi": "https://doi.org/10.48550/arxiv.2603.27986",
+  "match": "✓"
+ },
+ "vettraffic26": {
+  "title": "Revisiting the Adversarial Robustness of Graph-Based Traffic Forecasting",
+  "year": 2026,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Qingzhao Zhang",
+  "doi": "https://doi.org/10.48550/arxiv.2607.27604",
+  "match": "✓"
+ },
+ "fedmid24": {
+  "title": "FedMID: A Data-Free Method for Using Intermediate Outputs as a Defense Mechanism Against Poisoning Attacks in Federated Learning",
+  "year": 2024,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Sungwon Han, Hyeonho Song, Sungwon Park, Meeyoung Cha",
+  "doi": "https://doi.org/10.48550/arxiv.2404.11905",
+  "match": "✓"
+ },
+ "specshield26": {
+  "title": "Frequency-Domain Signatures for Proactive Defense Against Model Poisoning Attacks in Federated Learning",
+  "year": 2026,
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "authors": "Fangjie Hu, Aiqing Zhang, Meng Li, Chen Wang",
+  "doi": "https://doi.org/10.1109/tifs.2026.3689720",
+  "match": "✓"
+ },
+ "uav26": {
+  "title": "Receiver-Domain Behavioral Probing for Backdoor-Resilient Federated GPS Spoofing Detection in UAV Networks",
+  "year": 2026,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Will Jedrzejczak, Cole Walther, Dilpreet Gill, Moh. Khalid Hasan",
+  "doi": "https://doi.org/10.48550/arxiv.2610.10360",
+  "match": "✓"
+ },
+ "danilenka24": {
+  "title": "Tackling Non-IID Data and Data Poisoning in Federated Learning using Adversarial Synthetic Data",
+  "year": 2024,
+  "venue": "Journal of Automation Mobile Robotics & Intelligent Systems",
+  "authors": "Anastasiya Danilenka",
+  "doi": "https://doi.org/10.14313/jamris/3-2024/17",
+  "match": "✓"
+ },
+ "mudguard24": {
+  "title": "MUDGUARD: Taming Malicious Majorities in Federated Learning using Privacy-preserving Byzantine-robust Clustering",
+  "year": 2025,
+  "venue": "ACM SIGMETRICS Performance Evaluation Review",
+  "authors": "Rui Wang, Xingkai Wang, H.L. Chen, Jérémie Decouchant, Stjepan Picek …",
+  "doi": "https://doi.org/10.1145/3744970.3727296",
+  "match": "✓"
+ },
+ "flest23": {
+  "title": "Better Safe Than Sorry: Constructing Byzantine-Robust Federated Learning with Synthesized Trust",
+  "year": 2023,
+  "venue": "Electronics",
+  "authors": "Gangchao Geng, Tianyang Cai, Zheng Yang",
+  "doi": "https://doi.org/10.3390/electronics12132926",
+  "match": "✓"
+ },
+ "traftrust26": {
+  "title": "TrafTrust‐Fed: Traffic‐Trust Federated Learning with Fuzzy Inference.",
+  "year": 2026,
+  "venue": "IET Intelligent Transport Systems",
+  "authors": "Thinh Le Vinh, Duy Le, Huan T. Tran, Samia Bouzefrane",
+  "doi": "https://doi.org/10.1049/itr2.70234",
+  "match": "✓"
+ },
+ "zenopp20": {
+  "title": "Zeno++: Robust Fully Asynchronous SGD",
+  "year": 2019,
+  "venue": "arXiv (Cornell University)",
+  "authors": "Cong Xie, Sanmi Koyejo, Indranil Gupta",
+  "doi": "https://doi.org/10.48550/arxiv.1903.07020",
+  "match": "✓"
+ },
+ "p4p26": {
+  "title": "P4P: A probe-guided anti-poisoning defense for federated learning-based intrusion detection in IoT networks under non-IID data",
+  "year": 2026,
+  "venue": "Journal of Network and Computer Applications",
+  "authors": "Thai Tuan Khang, Tran Huu Duc, Dang Van Huynh, Van-Hau Pham, Phan The Duy",
+  "doi": "https://doi.org/10.1016/j.jnca.2026.104502",
+  "match": "✓"
+ },
+ "medsecfed22": {
+  "title": "MediSecFed: Private and Secure Medical Image Classification in the Presence of Malicious Clients",
+  "year": 2021,
+  "venue": "IEEE Transactions on Industrial Informatics",
+  "authors": "Abhinav Kumar, Vishal Purohit, Vandana Bharti, Rishav Singh, Sanjay Kumar Singh",
+  "doi": "https://doi.org/10.1109/tii.2021.3138919",
+  "match": "✓"
+ }
+}

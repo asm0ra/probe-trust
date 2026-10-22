@@ -1,0 +1,768 @@
+{"pool": "honest", "inst": 0, "item": "pc1", "raw": "23, 25, 28", "forecast": [23.0, 25.0, 28.0]}
+{"pool": "honest", "inst": 0, "item": "pc2", "raw": "25, 25, 25", "forecast": [25.0, 25.0, 25.0]}
+{"pool": "honest", "inst": 0, "item": "pf1", "raw": "65, 66, 67", "forecast": [65.0, 66.0, 67.0]}
+{"pool": "honest", "inst": 0, "item": "pf2", "raw": "68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 0, "item": "e0", "raw": "29.0, 28.5, 28.0", "forecast": [29.0, 28.5, 28.0]}
+{"pool": "honest", "inst": 0, "item": "e1", "raw": "25, 24, 23", "forecast": [25.0, 24.0, 23.0]}
+{"pool": "honest", "inst": 0, "item": "e2", "raw": "30, 28, 26", "forecast": [30.0, 28.0, 26.0]}
+{"pool": "honest", "inst": 0, "item": "e3", "raw": "40, 45, 50", "forecast": [40.0, 45.0, 50.0]}
+{"pool": "honest", "inst": 0, "item": "e4", "raw": "60.8, 61.2, 61.5", "forecast": [60.8, 61.2, 61.5]}
+{"pool": "honest", "inst": 0, "item": "e5", "raw": "24, 25, 26", "forecast": [24.0, 25.0, 26.0]}
+{"pool": "honest", "inst": 0, "item": "e6", "raw": "60, 55, 50", "forecast": [60.0, 55.0, 50.0]}
+{"pool": "honest", "inst": 0, "item": "e7", "raw": "41, 40, 39", "forecast": [41.0, 40.0, 39.0]}
+{"pool": "honest", "inst": 0, "item": "e8", "raw": "25, 24, 23", "forecast": [25.0, 24.0, 23.0]}
+{"pool": "honest", "inst": 0, "item": "e9", "raw": "23.6, 25.2, 26.8", "forecast": [23.6, 25.2, 26.8]}
+{"pool": "honest", "inst": 0, "item": "e10", "raw": "64, 64, 63", "forecast": [64.0, 64.0, 63.0]}
+{"pool": "honest", "inst": 0, "item": "e11", "raw": "17, 16, 15", "forecast": [17.0, 16.0, 15.0]}
+{"pool": "honest", "inst": 0, "item": "e12", "raw": "25.5, 27.2, 28.9", "forecast": [25.5, 27.2, 28.9]}
+{"pool": "honest", "inst": 0, "item": "e13", "raw": "40, 42, 41", "forecast": [40.0, 42.0, 41.0]}
+{"pool": "honest", "inst": 0, "item": "e14", "raw": "27.5, 25.0, 22.0", "forecast": [27.5, 25.0, 22.0]}
+{"pool": "honest", "inst": 0, "item": "e15", "raw": "32.8, 33.5, 34.2", "forecast": [32.8, 33.5, 34.2]}
+{"pool": "honest", "inst": 0, "item": "e16", "raw": "26.2, 25.5, 24.8", "forecast": [26.2, 25.5, 24.8]}
+{"pool": "honest", "inst": 0, "item": "e17", "raw": "25.0, 26.0, 27.0", "forecast": [25.0, 26.0, 27.0]}
+{"pool": "honest", "inst": 0, "item": "e18", "raw": "19.5, 20.1, 20.5", "forecast": [19.5, 20.1, 20.5]}
+{"pool": "honest", "inst": 0, "item": "e19", "raw": "32, 30, 28", "forecast": [32.0, 30.0, 28.0]}
+{"pool": "honest", "inst": 0, "item": "e20", "raw": "50.1, 45.2, 40.3", "forecast": [50.1, 45.2, 40.3]}
+{"pool": "honest", "inst": 0, "item": "e21", "raw": "38.8, 39.2, 39.5", "forecast": [38.8, 39.2, 39.5]}
+{"pool": "honest", "inst": 0, "item": "e22", "raw": "27, 28, 29", "forecast": [27.0, 28.0, 29.0]}
+{"pool": "honest", "inst": 0, "item": "e23", "raw": "45, 43, 41", "forecast": [45.0, 43.0, 41.0]}
+{"pool": "honest", "inst": 0, "item": "e24", "raw": "24.1, 23.8, 23.5", "forecast": [24.1, 23.8, 23.5]}
+{"pool": "honest", "inst": 0, "item": "e25", "raw": "55, 53, 51", "forecast": [55.0, 53.0, 51.0]}
+{"pool": "honest", "inst": 0, "item": "e26", "raw": "45, 40, 35", "forecast": [45.0, 40.0, 35.0]}
+{"pool": "honest", "inst": 0, "item": "e27", "raw": "26.0, 25.3, 24.4", "forecast": [26.0, 25.3, 24.4]}
+{"pool": "honest", "inst": 0, "item": "e28", "raw": "33.2, 34.0, 34.5", "forecast": [33.2, 34.0, 34.5]}
+{"pool": "honest", "inst": 0, "item": "e29", "raw": "56.8, 55.2, 53.7", "forecast": [56.8, 55.2, 53.7]}
+{"pool": "honest", "inst": 0, "item": "e30", "raw": "21, 23, 25", "forecast": [21.0, 23.0, 25.0]}
+{"pool": "honest", "inst": 0, "item": "e31", "raw": "28, 26, 24", "forecast": [28.0, 26.0, 24.0]}
+{"pool": "honest", "inst": 0, "item": "e32", "raw": "38.8, 39.2, 39.6", "forecast": [38.8, 39.2, 39.6]}
+{"pool": "honest", "inst": 0, "item": "e33", "raw": "56, 55, 54", "forecast": [56.0, 55.0, 54.0]}
+{"pool": "honest", "inst": 0, "item": "e34", "raw": "47.1, 41.8, 35.2", "forecast": [47.1, 41.8, 35.2]}
+{"pool": "honest", "inst": 0, "item": "e35", "raw": "11.7, 12.2, 12.8", "forecast": [11.7, 12.2, 12.8]}
+{"pool": "honest", "inst": 0, "item": "e36", "raw": "40, 35, 30", "forecast": [40.0, 35.0, 30.0]}
+{"pool": "honest", "inst": 0, "item": "e37", "raw": "18, 16, 15", "forecast": [18.0, 16.0, 15.0]}
+{"pool": "honest", "inst": 0, "item": "e38", "raw": "40.2, 42.5, 45.1", "forecast": [40.2, 42.5, 45.1]}
+{"pool": "honest", "inst": 0, "item": "e39", "raw": "29, 32, 35", "forecast": [29.0, 32.0, 35.0]}
+{"pool": "honest", "inst": 0, "item": "n0", "raw": "65.5, 66.0, 66.5", "forecast": [65.5, 66.0, 66.5]}
+{"pool": "honest", "inst": 0, "item": "n1", "raw": "66, 65, 64", "forecast": [66.0, 65.0, 64.0]}
+{"pool": "honest", "inst": 0, "item": "n2", "raw": "65.2, 67.5, 70.1", "forecast": [65.2, 67.5, 70.1]}
+{"pool": "honest", "inst": 0, "item": "n3", "raw": "67, 66, 65", "forecast": [67.0, 66.0, 65.0]}
+{"pool": "honest", "inst": 0, "item": "n4", "raw": "57, 56, 55", "forecast": [57.0, 56.0, 55.0]}
+{"pool": "honest", "inst": 0, "item": "n5", "raw": "67, 66, 65", "forecast": [67.0, 66.0, 65.0]}
+{"pool": "honest", "inst": 0, "item": "n6", "raw": "68, 69, 70", "forecast": [68.0, 69.0, 70.0]}
+{"pool": "honest", "inst": 0, "item": "n7", "raw": "66.2, 65.8, 65.4", "forecast": [66.2, 65.8, 65.4]}
+{"pool": "honest", "inst": 0, "item": "n8", "raw": "68.5, 68.0, 67.5", "forecast": [68.5, 68.0, 67.5]}
+{"pool": "honest", "inst": 0, "item": "n9", "raw": "65, 65, 65", "forecast": [65.0, 65.0, 65.0]}
+{"pool": "honest", "inst": 0, "item": "n10", "raw": "67, 68, 69", "forecast": [67.0, 68.0, 69.0]}
+{"pool": "honest", "inst": 0, "item": "n11", "raw": "68.8, 69.0, 69.2", "forecast": [68.8, 69.0, 69.2]}
+{"pool": "honest", "inst": 0, "item": "n12", "raw": "63.5, 64.0, 64.5", "forecast": [63.5, 64.0, 64.5]}
+{"pool": "honest", "inst": 0, "item": "n13", "raw": "62.5, 62.0, 61.5", "forecast": [62.5, 62.0, 61.5]}
+{"pool": "honest", "inst": 0, "item": "n14", "raw": "67.1, 67.5, 68.0", "forecast": [67.1, 67.5, 68.0]}
+{"pool": "honest", "inst": 0, "item": "n15", "raw": "64.2, 63.5, 63.0", "forecast": [64.2, 63.5, 63.0]}
+{"pool": "honest", "inst": 0, "item": "n16", "raw": "60, 61, 62", "forecast": [60.0, 61.0, 62.0]}
+{"pool": "honest", "inst": 0, "item": "n17", "raw": "59, 60, 59", "forecast": [59.0, 60.0, 59.0]}
+{"pool": "honest", "inst": 0, "item": "n18", "raw": "68.8, 68.6, 68.5", "forecast": [68.8, 68.6, 68.5]}
+{"pool": "honest", "inst": 0, "item": "n19", "raw": "64.0, 63.5, 63.0", "forecast": [64.0, 63.5, 63.0]}
+{"pool": "honest", "inst": 1, "item": "pc1", "raw": "22, 25, 28", "forecast": [22.0, 25.0, 28.0]}
+{"pool": "honest", "inst": 1, "item": "pc2", "raw": "23, 21, 19", "forecast": [23.0, 21.0, 19.0]}
+{"pool": "honest", "inst": 1, "item": "pf1", "raw": "66, 65, 64", "forecast": [66.0, 65.0, 64.0]}
+{"pool": "honest", "inst": 1, "item": "pf2", "raw": "67, 68, 68", "forecast": [67.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 1, "item": "e0", "raw": "27.5, 28.0, 28.5", "forecast": [27.5, 28.0, 28.5]}
+{"pool": "honest", "inst": 1, "item": "e1", "raw": "23.5, 24.5, 25.5", "forecast": [23.5, 24.5, 25.5]}
+{"pool": "honest", "inst": 1, "item": "e2", "raw": "32, 31, 30", "forecast": [32.0, 31.0, 30.0]}
+{"pool": "honest", "inst": 1, "item": "e3", "raw": "44, 47, 50", "forecast": [44.0, 47.0, 50.0]}
+{"pool": "honest", "inst": 1, "item": "e4", "raw": "62, 60, 58", "forecast": [62.0, 60.0, 58.0]}
+{"pool": "honest", "inst": 1, "item": "e5", "raw": "26.5, 25.0, 24.0", "forecast": [26.5, 25.0, 24.0]}
+{"pool": "honest", "inst": 1, "item": "e6", "raw": "65, 63, 60", "forecast": [65.0, 63.0, 60.0]}
+{"pool": "honest", "inst": 1, "item": "e7", "raw": "44, 40, 38", "forecast": [44.0, 40.0, 38.0]}
+{"pool": "honest", "inst": 1, "item": "e8", "raw": "26.5, 27.2, 28.0", "forecast": [26.5, 27.2, 28.0]}
+{"pool": "honest", "inst": 1, "item": "e9", "raw": "26.5, 28.0, 29.5", "forecast": [26.5, 28.0, 29.5]}
+{"pool": "honest", "inst": 1, "item": "e10", "raw": "62.6, 63.5, 63.6", "forecast": [62.6, 63.5, 63.6]}
+{"pool": "honest", "inst": 1, "item": "e11", "raw": "14.6, 13.4, 11.4", "forecast": [14.6, 13.4, 11.4]}
+{"pool": "honest", "inst": 1, "item": "e12", "raw": "24.5, 25.5, 26.5", "forecast": [24.5, 25.5, 26.5]}
+{"pool": "honest", "inst": 1, "item": "e13", "raw": "45, 43, 41", "forecast": [45.0, 43.0, 41.0]}
+{"pool": "honest", "inst": 1, "item": "e14", "raw": "24.5, 23.0, 22.0", "forecast": [24.5, 23.0, 22.0]}
+{"pool": "honest", "inst": 1, "item": "e15", "raw": "37.2, 37.5, 37.8", "forecast": [37.2, 37.5, 37.8]}
+{"pool": "honest", "inst": 1, "item": "e16", "raw": "27.2, 26.7, 24.1", "forecast": [27.2, 26.7, 24.1]}
+{"pool": "honest", "inst": 1, "item": "e17", "raw": "24.4, 26.7, 27.2", "forecast": [24.4, 26.7, 27.2]}
+{"pool": "honest", "inst": 1, "item": "e18", "raw": "19.8, 20.1, 18.8", "forecast": [19.8, 20.1, 18.8]}
+{"pool": "honest", "inst": 1, "item": "e19", "raw": "38, 34, 30", "forecast": [38.0, 34.0, 30.0]}
+{"pool": "honest", "inst": 1, "item": "e20", "raw": "58, 56, 54", "forecast": [58.0, 56.0, 54.0]}
+{"pool": "honest", "inst": 1, "item": "e21", "raw": "35.5, 36.2, 36.8", "forecast": [35.5, 36.2, 36.8]}
+{"pool": "honest", "inst": 1, "item": "e22", "raw": "26, 27, 28", "forecast": [26.0, 27.0, 28.0]}
+{"pool": "honest", "inst": 1, "item": "e23", "raw": "42, 41, 40", "forecast": [42.0, 41.0, 40.0]}
+{"pool": "honest", "inst": 1, "item": "e24", "raw": "25.5, 26.8, 27.2", "forecast": [25.5, 26.8, 27.2]}
+{"pool": "honest", "inst": 1, "item": "e25", "raw": "50.6, 48.5, 47.0", "forecast": [50.6, 48.5, 47.0]}
+{"pool": "honest", "inst": 1, "item": "e26", "raw": "42, 34, 28", "forecast": [42.0, 34.0, 28.0]}
+{"pool": "honest", "inst": 1, "item": "e27", "raw": "27.0, 28.0, 29.0", "forecast": [27.0, 28.0, 29.0]}
+{"pool": "honest", "inst": 1, "item": "e28", "raw": "37, 36, 35", "forecast": [37.0, 36.0, 35.0]}
+{"pool": "honest", "inst": 1, "item": "e29", "raw": "59, 58, 57", "forecast": [59.0, 58.0, 57.0]}
+{"pool": "honest", "inst": 1, "item": "e30", "raw": "28, 35, 42", "forecast": [28.0, 35.0, 42.0]}
+{"pool": "honest", "inst": 1, "item": "e31", "raw": "27.5, 26.2, 25.0", "forecast": [27.5, 26.2, 25.0]}
+{"pool": "honest", "inst": 1, "item": "e32", "raw": "38.6, 39.4, 39.2", "forecast": [38.6, 39.4, 39.2]}
+{"pool": "honest", "inst": 1, "item": "e33", "raw": "53.5, 52.0, 50.5", "forecast": [53.5, 52.0, 50.5]}
+{"pool": "honest", "inst": 1, "item": "e34", "raw": "46, 41, 36", "forecast": [46.0, 41.0, 36.0]}
+{"pool": "honest", "inst": 1, "item": "e35", "raw": "13.7, 12.9, 12.1", "forecast": [13.7, 12.9, 12.1]}
+{"pool": "honest", "inst": 1, "item": "e36", "raw": "41, 39, 37", "forecast": [41.0, 39.0, 37.0]}
+{"pool": "honest", "inst": 1, "item": "e37", "raw": "13.7, 16.6, 17.8", "forecast": [13.7, 16.6, 17.8]}
+{"pool": "honest", "inst": 1, "item": "e38", "raw": "47, 48, 50", "forecast": [47.0, 48.0, 50.0]}
+{"pool": "honest", "inst": 1, "item": "e39", "raw": "23.5, 25.0, 26.5", "forecast": [23.5, 25.0, 26.5]}
+{"pool": "honest", "inst": 1, "item": "n0", "raw": "68.0, 67.5, 67.0", "forecast": [68.0, 67.5, 67.0]}
+{"pool": "honest", "inst": 1, "item": "n1", "raw": "65.5, 66.2, 67.1", "forecast": [65.5, 66.2, 67.1]}
+{"pool": "honest", "inst": 1, "item": "n2", "raw": "69, 67, 65", "forecast": [69.0, 67.0, 65.0]}
+{"pool": "honest", "inst": 1, "item": "n3", "raw": "69, 68, 67", "forecast": [69.0, 68.0, 67.0]}
+{"pool": "honest", "inst": 1, "item": "n4", "raw": "54, 53, 52", "forecast": [54.0, 53.0, 52.0]}
+{"pool": "honest", "inst": 1, "item": "n5", "raw": "66.5, 66.7, 67.0", "forecast": [66.5, 66.7, 67.0]}
+{"pool": "honest", "inst": 1, "item": "n6", "raw": "67.8, 68.3, 68.7", "forecast": [67.8, 68.3, 68.7]}
+{"pool": "honest", "inst": 1, "item": "n7", "raw": "69, 69, 68", "forecast": [69.0, 69.0, 68.0]}
+{"pool": "honest", "inst": 1, "item": "n8", "raw": "68, 67, 66", "forecast": [68.0, 67.0, 66.0]}
+{"pool": "honest", "inst": 1, "item": "n9", "raw": "64.8, 64.5, 64.2", "forecast": [64.8, 64.5, 64.2]}
+{"pool": "honest", "inst": 1, "item": "n10", "raw": "68.5, 69.3, 70.1", "forecast": [68.5, 69.3, 70.1]}
+{"pool": "honest", "inst": 1, "item": "n11", "raw": "68.8, 69.4, 70.0", "forecast": [68.8, 69.4, 70.0]}
+{"pool": "honest", "inst": 1, "item": "n12", "raw": "65, 65, 66", "forecast": [65.0, 65.0, 66.0]}
+{"pool": "honest", "inst": 1, "item": "n13", "raw": "61.5, 62.0, 62.5", "forecast": [61.5, 62.0, 62.5]}
+{"pool": "honest", "inst": 1, "item": "n14", "raw": "65.5, 65.1, 64.4", "forecast": [65.5, 65.1, 64.4]}
+{"pool": "honest", "inst": 1, "item": "n15", "raw": "63.5, 64.0, 64.2", "forecast": [63.5, 64.0, 64.2]}
+{"pool": "honest", "inst": 1, "item": "n16", "raw": "61, 60, 59", "forecast": [61.0, 60.0, 59.0]}
+{"pool": "honest", "inst": 1, "item": "n17", "raw": "57, 56, 55", "forecast": [57.0, 56.0, 55.0]}
+{"pool": "honest", "inst": 1, "item": "n18", "raw": "68.5, 68.6, 68.7", "forecast": [68.5, 68.6, 68.7]}
+{"pool": "honest", "inst": 1, "item": "n19", "raw": "65, 63, 62", "forecast": [65.0, 63.0, 62.0]}
+{"pool": "honest", "inst": 2, "item": "pc1", "raw": "25, 23, 22", "forecast": [25.0, 23.0, 22.0]}
+{"pool": "honest", "inst": 2, "item": "pc2", "raw": "24, 25, 26", "forecast": [24.0, 25.0, 26.0]}
+{"pool": "honest", "inst": 2, "item": "pf1", "raw": "65, 65, 66", "forecast": [65.0, 65.0, 66.0]}
+{"pool": "honest", "inst": 2, "item": "pf2", "raw": "68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 2, "item": "e0", "raw": "28.5, 28.0, 27.5", "forecast": [28.5, 28.0, 27.5]}
+{"pool": "honest", "inst": 2, "item": "e1", "raw": "24.5, 25.0, 25.5", "forecast": [24.5, 25.0, 25.5]}
+{"pool": "honest", "inst": 2, "item": "e2", "raw": "31.5, 30.2, 29.3", "forecast": [31.5, 30.2, 29.3]}
+{"pool": "honest", "inst": 2, "item": "e3", "raw": "42, 45, 48", "forecast": [42.0, 45.0, 48.0]}
+{"pool": "honest", "inst": 2, "item": "e4", "raw": "61, 60, 59", "forecast": [61.0, 60.0, 59.0]}
+{"pool": "honest", "inst": 2, "item": "e5", "raw": "25.5, 26.0, 26.5", "forecast": [25.5, 26.0, 26.5]}
+{"pool": "honest", "inst": 2, "item": "e6", "raw": "63, 60, 55", "forecast": [63.0, 60.0, 55.0]}
+{"pool": "honest", "inst": 2, "item": "e7", "raw": "42, 40, 38", "forecast": [42.0, 40.0, 38.0]}
+{"pool": "honest", "inst": 2, "item": "e8", "raw": "24, 25, 26", "forecast": [24.0, 25.0, 26.0]}
+{"pool": "honest", "inst": 2, "item": "e9", "raw": "22.5, 24.0, 25.5", "forecast": [22.5, 24.0, 25.5]}
+{"pool": "honest", "inst": 2, "item": "e10", "raw": "63.5, 63.6, 63.7", "forecast": [63.5, 63.6, 63.7]}
+{"pool": "honest", "inst": 2, "item": "e11", "raw": "16.8, 16.2, 16.6", "forecast": [16.8, 16.2, 16.6]}
+{"pool": "honest", "inst": 2, "item": "e12", "raw": "27.5, 28.2, 28.8", "forecast": [27.5, 28.2, 28.8]}
+{"pool": "honest", "inst": 2, "item": "e13", "raw": "41.5, 43.2, 44.1", "forecast": [41.5, 43.2, 44.1]}
+{"pool": "honest", "inst": 2, "item": "e14", "raw": "28, 25, 22", "forecast": [28.0, 25.0, 22.0]}
+{"pool": "honest", "inst": 2, "item": "e15", "raw": "35.5, 36.2, 36.5", "forecast": [35.5, 36.2, 36.5]}
+{"pool": "honest", "inst": 2, "item": "e16", "raw": "25.5, 26.2, 26.9", "forecast": [25.5, 26.2, 26.9]}
+{"pool": "honest", "inst": 2, "item": "e17", "raw": "27.5, 29.0, 30.5", "forecast": [27.5, 29.0, 30.5]}
+{"pool": "honest", "inst": 2, "item": "e18", "raw": "19.8, 20.1, 20.4", "forecast": [19.8, 20.1, 20.4]}
+{"pool": "honest", "inst": 2, "item": "e19", "raw": "30.5, 33.2, 35.8", "forecast": [30.5, 33.2, 35.8]}
+{"pool": "honest", "inst": 2, "item": "e20", "raw": "55, 50, 45", "forecast": [55.0, 50.0, 45.0]}
+{"pool": "honest", "inst": 2, "item": "e21", "raw": "37.5, 38.2, 38.8", "forecast": [37.5, 38.2, 38.8]}
+{"pool": "honest", "inst": 2, "item": "e22", "raw": "28, 29, 30", "forecast": [28.0, 29.0, 30.0]}
+{"pool": "honest", "inst": 2, "item": "e23", "raw": "44, 42, 40", "forecast": [44.0, 42.0, 40.0]}
+{"pool": "honest", "inst": 2, "item": "e24", "raw": "23.5, 25.2, 26.9", "forecast": [23.5, 25.2, 26.9]}
+{"pool": "honest", "inst": 2, "item": "e25", "raw": "52, 50, 48", "forecast": [52.0, 50.0, 48.0]}
+{"pool": "honest", "inst": 2, "item": "e26", "raw": "40, 35, 30", "forecast": [40.0, 35.0, 30.0]}
+{"pool": "honest", "inst": 2, "item": "e27", "raw": "25.0, 24.5, 24.0", "forecast": [25.0, 24.5, 24.0]}
+{"pool": "honest", "inst": 2, "item": "e28", "raw": "35, 34, 33", "forecast": [35.0, 34.0, 33.0]}
+{"pool": "honest", "inst": 2, "item": "e29", "raw": "55.5, 53.2, 51.9", "forecast": [55.5, 53.2, 51.9]}
+{"pool": "honest", "inst": 2, "item": "e30", "raw": "25.1, 26.3, 27.6", "forecast": [25.1, 26.3, 27.6]}
+{"pool": "honest", "inst": 2, "item": "e31", "raw": "21.3, 21.3, 21.3", "forecast": [21.3, 21.3, 21.3]}
+{"pool": "honest", "inst": 2, "item": "e32", "raw": "39.2, 38.8, 38.4", "forecast": [39.2, 38.8, 38.4]}
+{"pool": "honest", "inst": 2, "item": "e33", "raw": "54, 53, 52", "forecast": [54.0, 53.0, 52.0]}
+{"pool": "honest", "inst": 2, "item": "e34", "raw": "45, 40, 35", "forecast": [45.0, 40.0, 35.0]}
+{"pool": "honest", "inst": 2, "item": "e35", "raw": "11.8, 11.5, 11.3", "forecast": [11.8, 11.5, 11.3]}
+{"pool": "honest", "inst": 2, "item": "e36", "raw": "45, 30, 20", "forecast": [45.0, 30.0, 20.0]}
+{"pool": "honest", "inst": 2, "item": "e37", "raw": "17.8, 17.2, 16.7", "forecast": [17.8, 17.2, 16.7]}
+{"pool": "honest", "inst": 2, "item": "e38", "raw": "45, 42, 39", "forecast": [45.0, 42.0, 39.0]}
+{"pool": "honest", "inst": 2, "item": "e39", "raw": "28.0, 32.0, 36.0", "forecast": [28.0, 32.0, 36.0]}
+{"pool": "honest", "inst": 2, "item": "n0", "raw": "67.2, 66.8, 66.4", "forecast": [67.2, 66.8, 66.4]}
+{"pool": "honest", "inst": 2, "item": "n1", "raw": "67.5, 67.8, 68.1", "forecast": [67.5, 67.8, 68.1]}
+{"pool": "honest", "inst": 2, "item": "n2", "raw": "68, 69, 70", "forecast": [68.0, 69.0, 70.0]}
+{"pool": "honest", "inst": 2, "item": "n3", "raw": "68.2, 67.8, 67.4", "forecast": [68.2, 67.8, 67.4]}
+{"pool": "honest", "inst": 2, "item": "n4", "raw": "55, 52, 50", "forecast": [55.0, 52.0, 50.0]}
+{"pool": "honest", "inst": 2, "item": "n5", "raw": "67.4, 66.2, 67.9", "forecast": [67.4, 66.2, 67.9]}
+{"pool": "honest", "inst": 2, "item": "n6", "raw": "68.2, 68.8, 69.5", "forecast": [68.2, 68.8, 69.5]}
+{"pool": "honest", "inst": 2, "item": "n7", "raw": "68, 68, 67", "forecast": [68.0, 68.0, 67.0]}
+{"pool": "honest", "inst": 2, "item": "n8", "raw": "67.5, 67.2, 67.0", "forecast": [67.5, 67.2, 67.0]}
+{"pool": "honest", "inst": 2, "item": "n9", "raw": "65.5, 65.0, 64.5", "forecast": [65.5, 65.0, 64.5]}
+{"pool": "honest", "inst": 2, "item": "n10", "raw": "66.8, 66.5, 66.3", "forecast": [66.8, 66.5, 66.3]}
+{"pool": "honest", "inst": 2, "item": "n11", "raw": "69.5, 70.2, 70.0", "forecast": [69.5, 70.2, 70.0]}
+{"pool": "honest", "inst": 2, "item": "n12", "raw": "64, 65, 66", "forecast": [64.0, 65.0, 66.0]}
+{"pool": "honest", "inst": 2, "item": "n13", "raw": "62.5, 63.0, 62.8", "forecast": [62.5, 63.0, 62.8]}
+{"pool": "honest", "inst": 2, "item": "n14", "raw": "66.5, 66.8, 67.1", "forecast": [66.5, 66.8, 67.1]}
+{"pool": "honest", "inst": 2, "item": "n15", "raw": "64.0, 63.5, 63.2", "forecast": [64.0, 63.5, 63.2]}
+{"pool": "honest", "inst": 2, "item": "n16", "raw": "62, 60, 58", "forecast": [62.0, 60.0, 58.0]}
+{"pool": "honest", "inst": 2, "item": "n17", "raw": "58, 59, 60", "forecast": [58.0, 59.0, 60.0]}
+{"pool": "honest", "inst": 2, "item": "n18", "raw": "69, 68, 67", "forecast": [69.0, 68.0, 67.0]}
+{"pool": "honest", "inst": 2, "item": "n19", "raw": "64, 63, 62", "forecast": [64.0, 63.0, 62.0]}
+{"pool": "honest", "inst": 3, "item": "pc1", "raw": "23, 25, 28", "forecast": [23.0, 25.0, 28.0]}
+{"pool": "honest", "inst": 3, "item": "pc2", "raw": "25, 25, 25", "forecast": [25.0, 25.0, 25.0]}
+{"pool": "honest", "inst": 3, "item": "pf1", "raw": "66, 66, 66", "forecast": [66.0, 66.0, 66.0]}
+{"pool": "honest", "inst": 3, "item": "pf2", "raw": "68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 3, "item": "e0", "raw": "29, 28, 27", "forecast": [29.0, 28.0, 27.0]}
+{"pool": "honest", "inst": 3, "item": "e1", "raw": "25.5, 25.1, 24.7", "forecast": [25.5, 25.1, 24.7]}
+{"pool": "honest", "inst": 3, "item": "e2", "raw": "30.5, 29.8, 30.2", "forecast": [30.5, 29.8, 30.2]}
+{"pool": "honest", "inst": 3, "item": "e3", "raw": "38, 42, 46", "forecast": [38.0, 42.0, 46.0]}
+{"pool": "honest", "inst": 3, "item": "e4", "raw": "62, 61, 60", "forecast": [62.0, 61.0, 60.0]}
+{"pool": "honest", "inst": 3, "item": "e5", "raw": "24.5, 25.0, 24.0", "forecast": [24.5, 25.0, 24.0]}
+{"pool": "honest", "inst": 3, "item": "e6", "raw": "63, 61, 58", "forecast": [63.0, 61.0, 58.0]}
+{"pool": "honest", "inst": 3, "item": "e7", "raw": "45, 42, 39", "forecast": [45.0, 42.0, 39.0]}
+{"pool": "honest", "inst": 3, "item": "e8", "raw": "23.5, 24.2, 24.9", "forecast": [23.5, 24.2, 24.9]}
+{"pool": "honest", "inst": 3, "item": "e9", "raw": "21.5, 23.0, 24.5", "forecast": [21.5, 23.0, 24.5]}
+{"pool": "honest", "inst": 3, "item": "e10", "raw": "64, 64, 63", "forecast": [64.0, 64.0, 63.0]}
+{"pool": "honest", "inst": 3, "item": "e11", "raw": "15.9, 15.0, 13.9", "forecast": [15.9, 15.0, 13.9]}
+{"pool": "honest", "inst": 3, "item": "e12", "raw": "25.5, 27.0, 28.5", "forecast": [25.5, 27.0, 28.5]}
+{"pool": "honest", "inst": 3, "item": "e13", "raw": "42, 40, 38", "forecast": [42.0, 40.0, 38.0]}
+{"pool": "honest", "inst": 3, "item": "e14", "raw": "27, 25, 23", "forecast": [27.0, 25.0, 23.0]}
+{"pool": "honest", "inst": 3, "item": "e15", "raw": "32.5, 33.7, 34.9", "forecast": [32.5, 33.7, 34.9]}
+{"pool": "honest", "inst": 3, "item": "e16", "raw": "24.5, 25.2, 25.8", "forecast": [24.5, 25.2, 25.8]}
+{"pool": "honest", "inst": 3, "item": "e17", "raw": "25.5, 27.1, 28.7", "forecast": [25.5, 27.1, 28.7]}
+{"pool": "honest", "inst": 3, "item": "e18", "raw": "20.5, 21.2, 21.5", "forecast": [20.5, 21.2, 21.5]}
+{"pool": "honest", "inst": 3, "item": "e19", "raw": "32.5, 29.0, 27.8", "forecast": [32.5, 29.0, 27.8]}
+{"pool": "honest", "inst": 3, "item": "e20", "raw": "50, 45, 40", "forecast": [50.0, 45.0, 40.0]}
+{"pool": "honest", "inst": 3, "item": "e21", "raw": "38.4, 40.0, 41.5", "forecast": [38.4, 40.0, 41.5]}
+{"pool": "honest", "inst": 3, "item": "e22", "raw": "27.6, 29.8, 24.9", "forecast": [27.6, 29.8, 24.9]}
+{"pool": "honest", "inst": 3, "item": "e23", "raw": "43, 42, 41", "forecast": [43.0, 42.0, 41.0]}
+{"pool": "honest", "inst": 3, "item": "e24", "raw": "Based on the provided data, there's a clear trend of increasing speed over the past 30 minutes. Here are", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e25", "raw": "54, 52, 50", "forecast": [54.0, 52.0, 50.0]}
+{"pool": "honest", "inst": 3, "item": "e26", "raw": "35, 30, 25", "forecast": [35.0, 30.0, 25.0]}
+{"pool": "honest", "inst": 3, "item": "e27", "raw": "26.0, 25.3, 24.4", "forecast": [26.0, 25.3, 24.4]}
+{"pool": "honest", "inst": 3, "item": "e28", "raw": "36, 35, 34", "forecast": [36.0, 35.0, 34.0]}
+{"pool": "honest", "inst": 3, "item": "e29", "raw": "56, 55, 54", "forecast": [56.0, 55.0, 54.0]}
+{"pool": "honest", "inst": 3, "item": "e30", "raw": "23.8, 20.4, 17.8", "forecast": [23.8, 20.4, 17.8]}
+{"pool": "honest", "inst": 3, "item": "e31", "raw": "28.5, 30.2, 32.1", "forecast": [28.5, 30.2, 32.1]}
+{"pool": "honest", "inst": 3, "item": "e32", "raw": "38.6, 39.4, 39.2", "forecast": [38.6, 39.4, 39.2]}
+{"pool": "honest", "inst": 3, "item": "e33", "raw": "56, 55, 53", "forecast": [56.0, 55.0, 53.0]}
+{"pool": "honest", "inst": 3, "item": "e34", "raw": "42, 47, 43", "forecast": [42.0, 47.0, 43.0]}
+{"pool": "honest", "inst": 3, "item": "e35", "raw": "10.8, 11.1, 10.2", "forecast": [10.8, 11.1, 10.2]}
+{"pool": "honest", "inst": 3, "item": "e36", "raw": "52, 48, 45", "forecast": [52.0, 48.0, 45.0]}
+{"pool": "honest", "inst": 3, "item": "e37", "raw": "18.5, 20.2, 21.9", "forecast": [18.5, 20.2, 21.9]}
+{"pool": "honest", "inst": 3, "item": "e38", "raw": "39, 45, 50", "forecast": [39.0, 45.0, 50.0]}
+{"pool": "honest", "inst": 3, "item": "e39", "raw": "26, 28, 30", "forecast": [26.0, 28.0, 30.0]}
+{"pool": "honest", "inst": 3, "item": "n0", "raw": "65, 66, 67", "forecast": [65.0, 66.0, 67.0]}
+{"pool": "honest", "inst": 3, "item": "n1", "raw": "66.5, 65.5, 64.5", "forecast": [66.5, 65.5, 64.5]}
+{"pool": "honest", "inst": 3, "item": "n2", "raw": "66, 68, 70", "forecast": [66.0, 68.0, 70.0]}
+{"pool": "honest", "inst": 3, "item": "n3", "raw": "69, 69, 68", "forecast": [69.0, 69.0, 68.0]}
+{"pool": "honest", "inst": 3, "item": "n4", "raw": "56, 55, 54", "forecast": [56.0, 55.0, 54.0]}
+{"pool": "honest", "inst": 3, "item": "n5", "raw": "67.4, 67.1, 66.9", "forecast": [67.4, 67.1, 66.9]}
+{"pool": "honest", "inst": 3, "item": "n6", "raw": "67.8, 68.3, 68.5", "forecast": [67.8, 68.3, 68.5]}
+{"pool": "honest", "inst": 3, "item": "n7", "raw": "66.5, 67.2, 68.0", "forecast": [66.5, 67.2, 68.0]}
+{"pool": "honest", "inst": 3, "item": "n8", "raw": "68, 68, 67", "forecast": [68.0, 68.0, 67.0]}
+{"pool": "honest", "inst": 3, "item": "n9", "raw": "64.8, 64.5, 64.2", "forecast": [64.8, 64.5, 64.2]}
+{"pool": "honest", "inst": 3, "item": "n10", "raw": "67, 68, 69", "forecast": [67.0, 68.0, 69.0]}
+{"pool": "honest", "inst": 3, "item": "n11", "raw": "68.5, 69.0, 69.5", "forecast": [68.5, 69.0, 69.5]}
+{"pool": "honest", "inst": 3, "item": "n12", "raw": "63, 64, 65", "forecast": [63.0, 64.0, 65.0]}
+{"pool": "honest", "inst": 3, "item": "n13", "raw": "62.5, 62.2, 62.0", "forecast": [62.5, 62.2, 62.0]}
+{"pool": "honest", "inst": 3, "item": "n14", "raw": "67, 66, 65", "forecast": [67.0, 66.0, 65.0]}
+{"pool": "honest", "inst": 3, "item": "n15", "raw": "63.5, 64.0, 64.2", "forecast": [63.5, 64.0, 64.2]}
+{"pool": "honest", "inst": 3, "item": "n16", "raw": "61, 60, 59", "forecast": [61.0, 60.0, 59.0]}
+{"pool": "honest", "inst": 3, "item": "n17", "raw": "59, 60, 60", "forecast": [59.0, 60.0, 60.0]}
+{"pool": "honest", "inst": 3, "item": "n18", "raw": "68.5, 68.6, 68.7", "forecast": [68.5, 68.6, 68.7]}
+{"pool": "honest", "inst": 3, "item": "n19", "raw": "64, 63, 62", "forecast": [64.0, 63.0, 62.0]}
+{"pool": "honest", "inst": 4, "item": "pc1", "raw": "50, 48, 46", "forecast": [50.0, 48.0, 46.0]}
+{"pool": "honest", "inst": 4, "item": "pc2", "raw": "24, 25, 26", "forecast": [24.0, 25.0, 26.0]}
+{"pool": "honest", "inst": 4, "item": "pf1", "raw": "Based on the data provided, the speeds have been oscillating between 64 and 66 mph with a slight", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "pf2", "raw": "Based on the consistent speed readings, I predict the speeds to be:\n68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 4, "item": "e0", "raw": "To forecast the future speeds, we'll use a simple linear regression model based on the time trend. Here's how the", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e1", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e2", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e3", "raw": "32, 35, 38", "forecast": [32.0, 35.0, 38.0]}
+{"pool": "honest", "inst": 4, "item": "e4", "raw": "Based on the data provided, the speeds are fluctuating slightly. Here's a simple forecast:\n\n+5 minutes: ", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e5", "raw": "Based on the data provided, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e6", "raw": "55, 52, 49", "forecast": [55.0, 52.0, 49.0]}
+{"pool": "honest", "inst": 4, "item": "e7", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e8", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e9", "raw": "32.7, 33.5, 34.2", "forecast": [32.7, 33.5, 34.2]}
+{"pool": "honest", "inst": 4, "item": "e10", "raw": "Based on the data provided, the speeds have been fluctuating slightly with no clear upward or downward trend. Here's my", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e11", "raw": "16.8, 16.2, 16.2", "forecast": [16.8, 16.2, 16.2]}
+{"pool": "honest", "inst": 4, "item": "e12", "raw": "To forecast the short-term highway speeds, we can use a simple moving average approach. Let's calculate the average speed over", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e13", "raw": "38, 39, 40", "forecast": [38.0, 39.0, 40.0]}
+{"pool": "honest", "inst": 4, "item": "e14", "raw": "Based on the provided data, the speed trend shows fluctuations with some volatility. To forecast future speeds, I'll use a", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e15", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e16", "raw": "To forecast the future speeds, we'll use a simple linear regression model based on the recent data. Here's how the", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e17", "raw": "30.8, 27.5, 26.3", "forecast": [30.8, 27.5, 26.3]}
+{"pool": "honest", "inst": 4, "item": "e18", "raw": "19.6, 20.2, 20.5", "forecast": [19.6, 20.2, 20.5]}
+{"pool": "honest", "inst": 4, "item": "e19", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e20", "raw": "45, 40, 35", "forecast": [45.0, 40.0, 35.0]}
+{"pool": "honest", "inst": 4, "item": "e21", "raw": "To forecast the future speeds, we'll use a simple linear regression model based on the recent speed changes. Here's how", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e22", "raw": "Based on the data provided, there's a clear increase in speed starting from the 35th minute. Here's", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e23", "raw": "Based on the given data, here are the predicted speeds at +5, +10, and +15 minutes", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e24", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e25", "raw": "48, 50, 52", "forecast": [48.0, 50.0, 52.0]}
+{"pool": "honest", "inst": 4, "item": "e26", "raw": "55, 52, 50", "forecast": [55.0, 52.0, 50.0]}
+{"pool": "honest", "inst": 4, "item": "e27", "raw": "45, 40, 35", "forecast": [45.0, 40.0, 35.0]}
+{"pool": "honest", "inst": 4, "item": "e28", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e29", "raw": "Based on the data provided, the highway speeds are generally decreasing. To forecast the speeds, I'll continue this trend:\n\n", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e30", "raw": "45, 40, 35", "forecast": [45.0, 40.0, 35.0]}
+{"pool": "honest", "inst": 4, "item": "e31", "raw": "30, 28, 26", "forecast": [30.0, 28.0, 26.0]}
+{"pool": "honest", "inst": 4, "item": "e32", "raw": "Based on the data provided, the speeds are increasing slightly over the past 30 minutes. Here are my predictions for", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e33", "raw": "54, 52, 50", "forecast": [54.0, 52.0, 50.0]}
+{"pool": "honest", "inst": 4, "item": "e34", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "e35", "raw": "11.3, 12.1, 12.9", "forecast": [11.3, 12.1, 12.9]}
+{"pool": "honest", "inst": 4, "item": "e36", "raw": "45, 35, 25", "forecast": [45.0, 35.0, 25.0]}
+{"pool": "honest", "inst": 4, "item": "e37", "raw": "Based on the provided data, the speed appears to be increasing. To forecast the speeds, we can use a simple linear", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e38", "raw": "37, 40, 42", "forecast": [37.0, 40.0, 42.0]}
+{"pool": "honest", "inst": 4, "item": "e39", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "n0", "raw": "Based on the trend and variability in the given data, here's a forecast for the next 15 minutes:\n\n6", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n1", "raw": "To forecast the future speeds, we'll use a simple linear regression model based on the recent speed changes. Here's how", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n2", "raw": "To forecast the short-term highway speeds, I'll use a simple linear regression model with the last 6 data points (", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n3", "raw": "Based on the data provided, the speeds are fluctuating around a mean of approximately 67.8 mph with a", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n4", "raw": "58, 57, 56", "forecast": [58.0, 57.0, 56.0]}
+{"pool": "honest", "inst": 4, "item": "n5", "raw": "Based on the data provided, the speeds have been fluctuating within a narrow range. Here's my forecast:\n\n+5", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n6", "raw": "68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 4, "item": "n7", "raw": "Based on the data provided, here's my prediction for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n8", "raw": "Based on the data provided, the speeds are generally stable with a slight upward trend. Here's my prediction:\n\n+5", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n9", "raw": "Based on the data provided, the speeds are fluctuating around a mean of approximately 64.5 mph with a", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n10", "raw": "To forecast the future speeds, we'll use a simple moving average approach. Let's take the average of the last ", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n11", "raw": "Based on the data provided, the speeds have been fluctuating but generally increasing over the last 60 minutes. To", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n12", "raw": "Based on the data provided, here are the predicted speeds at +5, +10, and +15 minutes", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "n13", "raw": "Based on the data provided, here are the predicted speeds at +5, +10, and +15 minutes", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 4, "item": "n14", "raw": "Based on the data provided, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n15", "raw": "Based on the trend and the recent fluctuations, here are my predictions for the next 15 minutes:\n\n+5 minutes", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n16", "raw": "Based on the data provided, here's my prediction for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n17", "raw": "58, 57, 56", "forecast": [58.0, 57.0, 56.0]}
+{"pool": "honest", "inst": 4, "item": "n18", "raw": "To forecast the short-term highway speeds, we can use a simple moving average model. Let's calculate the average speed over", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n19", "raw": "To forecast the future speeds, we'll use a simple moving average with a window size of 3 (the last ", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "pc1", "raw": "To forecast the future speeds, we can use a simple moving average with a window size of 3 (i.e.,", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "pc2", "raw": "40, 35, 32", "forecast": [40.0, 35.0, 32.0]}
+{"pool": "honest", "inst": 5, "item": "pf1", "raw": "Based on the recent pattern, the speed has been oscillating between 64, 65, and 6", "forecast": [64.0, 65.0, 6.0]}
+{"pool": "honest", "inst": 5, "item": "pf2", "raw": "68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 5, "item": "e0", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "e1", "raw": "Based on the provided data, here are the predicted speeds:\n\n+5 minutes: 25.1 mph\n+", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e2", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "e3", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "e4", "raw": "Based on the data provided, the highway speeds have been relatively stable with some minor fluctuations. To forecast the speeds at +", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e5", "raw": "Based on the provided data, here's the forecast for the next 15 minutes:\n\n25.5, ", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e6", "raw": "55, 53, 50", "forecast": [55.0, 53.0, 50.0]}
+{"pool": "honest", "inst": 5, "item": "e7", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "e8", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "e9", "raw": "22.3, 23.2, 24.0", "forecast": [22.3, 23.2, 24.0]}
+{"pool": "honest", "inst": 5, "item": "e10", "raw": "Based on the data provided, the highway speeds are fluctuating around 62-64 mph with some minor d", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e11", "raw": "16.8, 16.2, 15.9", "forecast": [16.8, 16.2, 15.9]}
+{"pool": "honest", "inst": 5, "item": "e12", "raw": "Based on the provided data, here's my prediction for the next 15 minutes:\n\n27.5, ", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e13", "raw": "38, 39, 40", "forecast": [38.0, 39.0, 40.0]}
+{"pool": "honest", "inst": 5, "item": "e14", "raw": "Based on the provided data, here's the predicted speed for the next 15 minutes:\n\n25.5,", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e15", "raw": "Based on the provided data, here's my prediction for the next 15 minutes:\n\n34.5, ", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e16", "raw": "To forecast the short-term highway speeds, we can use a simple moving average approach. Here's how we can calculate the", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e17", "raw": "30, 29, 28", "forecast": [30.0, 29.0, 28.0]}
+{"pool": "honest", "inst": 5, "item": "e18", "raw": "19.7, 20.1, 20.4", "forecast": [19.7, 20.1, 20.4]}
+{"pool": "honest", "inst": 5, "item": "e19", "raw": "To forecast the short-term highway speeds, I'll use a simple moving average approach, which is a common method for time", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e20", "raw": "45, 42, 40", "forecast": [45.0, 42.0, 40.0]}
+{"pool": "honest", "inst": 5, "item": "e21", "raw": "To forecast the future speeds, we can use a simple linear regression model based on the given data. Here's how:\n\n", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e22", "raw": "Based on the provided data, the highway speeds have been relatively stable with some fluctuations. To forecast the speeds at +5", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e23", "raw": "Based on the provided data, here's the predicted speed for the next 15 minutes:\n\n44, 4", "forecast": [15.0, 44.0, 4.0]}
+{"pool": "honest", "inst": 5, "item": "e24", "raw": "22.3, 21.2, 20.5", "forecast": [22.3, 21.2, 20.5]}
+{"pool": "honest", "inst": 5, "item": "e25", "raw": "Based on the trend and the data provided, here are my predictions:\n\n+5 minutes: 48 mph\n+", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e26", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "e27", "raw": "30, 29, 28", "forecast": [30.0, 29.0, 28.0]}
+{"pool": "honest", "inst": 5, "item": "e28", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "e29", "raw": "To forecast the future speeds, we can use a simple moving average with a window size of 3 (i.e.,", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e30", "raw": "45, 48, 50", "forecast": [45.0, 48.0, 50.0]}
+{"pool": "honest", "inst": 5, "item": "e31", "raw": "35, 27, 25", "forecast": [35.0, 27.0, 25.0]}
+{"pool": "honest", "inst": 5, "item": "e32", "raw": "Based on the data provided, the highway speeds have been oscillating around a mean of approximately 38 mph with a", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e33", "raw": "54, 53, 52", "forecast": [54.0, 53.0, 52.0]}
+{"pool": "honest", "inst": 5, "item": "e34", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "e35", "raw": "12.7, 13.5, 14.2", "forecast": [12.7, 13.5, 14.2]}
+{"pool": "honest", "inst": 5, "item": "e36", "raw": "45, 30, 25", "forecast": [45.0, 30.0, 25.0]}
+{"pool": "honest", "inst": 5, "item": "e37", "raw": "Based on the provided data, the highway speeds have been increasing over the past 60 minutes. To forecast the speed", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e38", "raw": "38, 40, 42", "forecast": [38.0, 40.0, 42.0]}
+{"pool": "honest", "inst": 5, "item": "e39", "raw": "35.5, 37.0, 38.5", "forecast": [35.5, 37.0, 38.5]}
+{"pool": "honest", "inst": 5, "item": "n0", "raw": "Based on the data provided, the highway speeds have been generally increasing over the last hour. To forecast the speeds at +", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n1", "raw": "Based on the data provided, the highway speeds have been relatively stable with some minor fluctuations. To forecast the speeds, we", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n2", "raw": "To forecast the short-term highway speeds, I'll use a simple moving average model. Here are the predicted speeds at +", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n3", "raw": "Based on the data provided, the highway speeds are fluctuating slightly but generally maintaining a consistent range. To forecast the next", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n4", "raw": "58, 56, 54", "forecast": [58.0, 56.0, 54.0]}
+{"pool": "honest", "inst": 5, "item": "n5", "raw": "Based on the data provided, the highway speeds are fluctuating slightly but generally stable. To forecast the speeds, I'll", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n6", "raw": "Based on the data provided, the highway speeds are relatively stable with slight fluctuations. Here's my prediction for the next ", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n7", "raw": "Based on the trend and variance in the provided data, here are the predicted speeds:\n\n+5 minutes: 68", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n8", "raw": "Based on the data provided, the highway speeds have been fluctuating slightly but have not shown a clear trend of increasing or", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n9", "raw": "To forecast the future speeds, we can use a simple moving average with a window size of 3 (i.e.,", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n10", "raw": "57, 62, 64", "forecast": [57.0, 62.0, 64.0]}
+{"pool": "honest", "inst": 5, "item": "n11", "raw": "Based on the data provided, the highway speeds are generally increasing over the past hour. Here's my prediction for the next", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n12", "raw": "Based on the data provided, the highway speeds have been relatively stable with some fluctuations. To forecast the speeds, I'm", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n13", "raw": "Based on the data provided, the highway speeds have been relatively stable with a slight increasing trend. Here are my predictions:\n\n", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n14", "raw": "To forecast the future speeds, we can use a simple linear regression model based on the given data. Here's how I", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n15", "raw": "Based on the data provided, the highway speeds have been steadily increasing over the last hour. Here are my predictions for the", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n16", "raw": "Based on the provided data, here are the predicted speeds at +5, +10, and +15 minutes", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "n17", "raw": "58, 58, 59", "forecast": [58.0, 58.0, 59.0]}
+{"pool": "honest", "inst": 5, "item": "n18", "raw": "Based on the data provided, the highway speeds are relatively stable with minor fluctuations. Here's my prediction for the next ", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n19", "raw": "Based on the data provided, the highway speeds have been relatively stable with a slight decreasing trend in the last 30", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "pc1", "raw": "Based on the provided data, the speed is consistently decreasing. To forecast the future speeds, we can continue this trend:\n\n", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "pc2", "raw": "Based on the provided data, the speeds are generally decreasing. To forecast the future speeds, we can continue this trend:\n\n", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "pf1", "raw": "Based on the given data, the speed has been fluctuating between 64 and 66 mph with a tendency", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "pf2", "raw": "68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 6, "item": "e0", "raw": "31.5, 30.3, 29.2", "forecast": [31.5, 30.3, 29.2]}
+{"pool": "honest", "inst": 6, "item": "e1", "raw": "24, 24, 22", "forecast": [24.0, 24.0, 22.0]}
+{"pool": "honest", "inst": 6, "item": "e2", "raw": "30, 29, 27", "forecast": [30.0, 29.0, 27.0]}
+{"pool": "honest", "inst": 6, "item": "e3", "raw": "42, 44, 47", "forecast": [42.0, 44.0, 47.0]}
+{"pool": "honest", "inst": 6, "item": "e4", "raw": "59, 60, 61", "forecast": [59.0, 60.0, 61.0]}
+{"pool": "honest", "inst": 6, "item": "e5", "raw": "25.5, 24.7, 24.2", "forecast": [25.5, 24.7, 24.2]}
+{"pool": "honest", "inst": 6, "item": "e6", "raw": "60, 55, 50", "forecast": [60.0, 55.0, 50.0]}
+{"pool": "honest", "inst": 6, "item": "e7", "raw": "42, 40, 38", "forecast": [42.0, 40.0, 38.0]}
+{"pool": "honest", "inst": 6, "item": "e8", "raw": "24, 25, 25", "forecast": [24.0, 25.0, 25.0]}
+{"pool": "honest", "inst": 6, "item": "e9", "raw": "To forecast the speeds, I'll use a simple linear regression model based on the given data. Here's how the speeds", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e10", "raw": "63, 63, 63", "forecast": [63.0, 63.0, 63.0]}
+{"pool": "honest", "inst": 6, "item": "e11", "raw": "Based on the given data, the highway speeds seem to be decreasing over time. Here's my forecast for the next ", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e12", "raw": "27, 28, 29", "forecast": [27.0, 28.0, 29.0]}
+{"pool": "honest", "inst": 6, "item": "e13", "raw": "Based on the provided data, the speeds are trending upwards. Here are my predictions:\n\n+5 minutes: 4", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e14", "raw": "Based on the given data, the speeds are increasing over the past 15 minutes. Here are my predictions for the", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e15", "raw": "Based on the given data, the highway speeds appear to be oscillating around a mean with some volatility. To make a", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e16", "raw": "Based on the given data, the highway speeds seem to be increasing over time. To forecast the future speeds, I'll", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e17", "raw": "26.7, 27.2, 27.7", "forecast": [26.7, 27.2, 27.7]}
+{"pool": "honest", "inst": 6, "item": "e18", "raw": "20.1, 19.0, 18.7", "forecast": [20.1, 19.0, 18.7]}
+{"pool": "honest", "inst": 6, "item": "e19", "raw": "Based on the provided data, here are my predictions for the next 15 minutes:\n\n+5 minutes: 3", "forecast": [15.0, 5.0, 3.0]}
+{"pool": "honest", "inst": 6, "item": "e20", "raw": "55, 53, 54", "forecast": [55.0, 53.0, 54.0]}
+{"pool": "honest", "inst": 6, "item": "e21", "raw": "42, 40, 39", "forecast": [42.0, 40.0, 39.0]}
+{"pool": "honest", "inst": 6, "item": "e22", "raw": "28, 28, 29", "forecast": [28.0, 28.0, 29.0]}
+{"pool": "honest", "inst": 6, "item": "e23", "raw": "44, 42, 41", "forecast": [44.0, 42.0, 41.0]}
+{"pool": "honest", "inst": 6, "item": "e24", "raw": "To forecast the speeds, we can use a simple moving average with a window size of 3 (i.e., the", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e25", "raw": "52.5, 50.7, 49.0", "forecast": [52.5, 50.7, 49.0]}
+{"pool": "honest", "inst": 6, "item": "e26", "raw": "45, 40, 35", "forecast": [45.0, 40.0, 35.0]}
+{"pool": "honest", "inst": 6, "item": "e27", "raw": "25.0, 24.6, 24.2", "forecast": [25.0, 24.6, 24.2]}
+{"pool": "honest", "inst": 6, "item": "e28", "raw": "Based on the given data, the highway speeds seem to be increasing over time. Here's my forecast for the next ", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e29", "raw": "57, 56, 55", "forecast": [57.0, 56.0, 55.0]}
+{"pool": "honest", "inst": 6, "item": "e30", "raw": "22, 24, 25", "forecast": [22.0, 24.0, 25.0]}
+{"pool": "honest", "inst": 6, "item": "e31", "raw": "30, 25, 22", "forecast": [30.0, 25.0, 22.0]}
+{"pool": "honest", "inst": 6, "item": "e32", "raw": "39.2, 39.0, 38.8", "forecast": [39.2, 39.0, 38.8]}
+{"pool": "honest", "inst": 6, "item": "e33", "raw": "54, 53, 52", "forecast": [54.0, 53.0, 52.0]}
+{"pool": "honest", "inst": 6, "item": "e34", "raw": "Based on the provided data, the speeds are generally increasing, but there's some volatility. Here are my predictions for the", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e35", "raw": "Based on the given data, the highway speeds appear to be decreasing over time. To forecast the speeds at +5,", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e36", "raw": "Based on the given data, the speeds are trending downwards. Here are my predictions:\n\n+5 minutes: ", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e37", "raw": "Based on the given data, the highway speeds appear to be increasing over time. Here's a simple linear extrapolation for the", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e38", "raw": "45, 42, 38", "forecast": [45.0, 42.0, 38.0]}
+{"pool": "honest", "inst": 6, "item": "e39", "raw": "45, 38, 34", "forecast": [45.0, 38.0, 34.0]}
+{"pool": "honest", "inst": 6, "item": "n0", "raw": "66, 68, 67", "forecast": [66.0, 68.0, 67.0]}
+{"pool": "honest", "inst": 6, "item": "n1", "raw": "67, 68, 68", "forecast": [67.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 6, "item": "n2", "raw": "67, 66, 64", "forecast": [67.0, 66.0, 64.0]}
+{"pool": "honest", "inst": 6, "item": "n3", "raw": "68.2, 68.1, 67.9", "forecast": [68.2, 68.1, 67.9]}
+{"pool": "honest", "inst": 6, "item": "n4", "raw": "To forecast the speeds, I'll use a simple linear regression model based on the given data. Here's how I'll", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n5", "raw": "67.4, 67.2, 67.0", "forecast": [67.4, 67.2, 67.0]}
+{"pool": "honest", "inst": 6, "item": "n6", "raw": "Based on the provided data, the speeds are trending slightly upwards. Here are the predicted speeds at +5, +", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n7", "raw": "67.0, 66.8, 66.5", "forecast": [67.0, 66.8, 66.5]}
+{"pool": "honest", "inst": 6, "item": "n8", "raw": "67.5, 67.8, 68.1", "forecast": [67.5, 67.8, 68.1]}
+{"pool": "honest", "inst": 6, "item": "n9", "raw": "65.5, 65.3, 65.1", "forecast": [65.5, 65.3, 65.1]}
+{"pool": "honest", "inst": 6, "item": "n10", "raw": "58, 65, 64", "forecast": [58.0, 65.0, 64.0]}
+{"pool": "honest", "inst": 6, "item": "n11", "raw": "69.0, 69.6, 70.0", "forecast": [69.0, 69.6, 70.0]}
+{"pool": "honest", "inst": 6, "item": "n12", "raw": "63.5, 64.1, 64.7", "forecast": [63.5, 64.1, 64.7]}
+{"pool": "honest", "inst": 6, "item": "n13", "raw": "62.5, 62.6, 62.7", "forecast": [62.5, 62.6, 62.7]}
+{"pool": "honest", "inst": 6, "item": "n14", "raw": "66.5, 67.3, 68.1", "forecast": [66.5, 67.3, 68.1]}
+{"pool": "honest", "inst": 6, "item": "n15", "raw": "64.0, 63.5, 63.0", "forecast": [64.0, 63.5, 63.0]}
+{"pool": "honest", "inst": 6, "item": "n16", "raw": "59.5, 60.3, 61.1", "forecast": [59.5, 60.3, 61.1]}
+{"pool": "honest", "inst": 6, "item": "n17", "raw": "58, 59, 60", "forecast": [58.0, 59.0, 60.0]}
+{"pool": "honest", "inst": 6, "item": "n18", "raw": "Based on the provided data, the speeds are fairly stable with minor fluctuations. Here's my prediction for the next 1", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n19", "raw": "63.5, 63.5, 63.5", "forecast": [63.5, 63.5, 63.5]}
+{"pool": "honest", "inst": 7, "item": "pc1", "raw": "45, 42, 39", "forecast": [45.0, 42.0, 39.0]}
+{"pool": "honest", "inst": 7, "item": "pc2", "raw": "To predict the short-term highway speeds, we can use a simple linear regression model. The data shows a clear downward trend", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "pf1", "raw": "65, 65, 65", "forecast": [65.0, 65.0, 65.0]}
+{"pool": "honest", "inst": 7, "item": "pf2", "raw": "68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 7, "item": "e0", "raw": "30.5, 31.0, 31.5", "forecast": [30.5, 31.0, 31.5]}
+{"pool": "honest", "inst": 7, "item": "e1", "raw": "Based on the given data, the speed appears to be increasing over the past 60 minutes. Here's my prediction", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e2", "raw": "31, 30, 29", "forecast": [31.0, 30.0, 29.0]}
+{"pool": "honest", "inst": 7, "item": "e3", "raw": "40, 42, 44", "forecast": [40.0, 42.0, 44.0]}
+{"pool": "honest", "inst": 7, "item": "e4", "raw": "59.5, 60.2, 60.8", "forecast": [59.5, 60.2, 60.8]}
+{"pool": "honest", "inst": 7, "item": "e5", "raw": "24.5, 23.8, 24.2", "forecast": [24.5, 23.8, 24.2]}
+{"pool": "honest", "inst": 7, "item": "e6", "raw": "To predict the short-term highway speeds, we can use a simple moving average with a window size of 3 (i", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e7", "raw": "Based on the given data, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e8", "raw": "25, 24, 23", "forecast": [25.0, 24.0, 23.0]}
+{"pool": "honest", "inst": 7, "item": "e9", "raw": "28.5, 32.3, 35.1", "forecast": [28.5, 32.3, 35.1]}
+{"pool": "honest", "inst": 7, "item": "e10", "raw": "Based on the provided data, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e11", "raw": "17.5, 17.0, 16.5", "forecast": [17.5, 17.0, 16.5]}
+{"pool": "honest", "inst": 7, "item": "e12", "raw": "Based on the given data, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e13", "raw": "39.4, 41.0, 42.1", "forecast": [39.4, 41.0, 42.1]}
+{"pool": "honest", "inst": 7, "item": "e14", "raw": "Based on the given data, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e15", "raw": "Based on the given data, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e16", "raw": "Based on the given data, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e17", "raw": "28.5, 27.3, 26.2", "forecast": [28.5, 27.3, 26.2]}
+{"pool": "honest", "inst": 7, "item": "e18", "raw": "19.8, 20.1, 20.4", "forecast": [19.8, 20.1, 20.4]}
+{"pool": "honest", "inst": 7, "item": "e19", "raw": "Based on the provided data, the speed readings are fluctuating. To make a forecast, we can use a simple moving", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e20", "raw": "50, 45, 40", "forecast": [50.0, 45.0, 40.0]}
+{"pool": "honest", "inst": 7, "item": "e21", "raw": "38.4, 37.7, 37.2", "forecast": [38.4, 37.7, 37.2]}
+{"pool": "honest", "inst": 7, "item": "e22", "raw": "Based on the given data, there's a clear trend of increasing speeds, with a sudden spike at 51.", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e23", "raw": "45, 43, 41", "forecast": [45.0, 43.0, 41.0]}
+{"pool": "honest", "inst": 7, "item": "e24", "raw": "To predict the short-term highway speeds, we can use a simple moving average with a window size of 3 (i", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e25", "raw": "49, 50, 51", "forecast": [49.0, 50.0, 51.0]}
+{"pool": "honest", "inst": 7, "item": "e26", "raw": "40, 35, 30", "forecast": [40.0, 35.0, 30.0]}
+{"pool": "honest", "inst": 7, "item": "e27", "raw": "24.5, 25.0, 25.5", "forecast": [24.5, 25.0, 25.5]}
+{"pool": "honest", "inst": 7, "item": "e28", "raw": "Based on the given data, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e29", "raw": "To predict the short-term highway speeds, we can use a simple linear regression model. Here's how we can proceed:\n\n", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e30", "raw": "23.8, 20.4, 17.8", "forecast": [23.8, 20.4, 17.8]}
+{"pool": "honest", "inst": 7, "item": "e31", "raw": "To predict the short-term highway speeds, we can use a simple moving average with a window size of 3. This", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e32", "raw": "Based on the provided data, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e33", "raw": "53, 52, 51", "forecast": [53.0, 52.0, 51.0]}
+{"pool": "honest", "inst": 7, "item": "e34", "raw": "To predict the short-term highway speeds, we can use a simple moving average with a window size of 5 (to", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e35", "raw": "Based on the given data, there seems to be a decreasing trend in speeds over the last 60 minutes. Here", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e36", "raw": "40, 35, 30", "forecast": [40.0, 35.0, 30.0]}
+{"pool": "honest", "inst": 7, "item": "e37", "raw": "Based on the given data, we see a pattern of increasing and decreasing speeds. The last three readings show a decrease,", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e38", "raw": "52.3, 53.5, 54.7", "forecast": [52.3, 53.5, 54.7]}
+{"pool": "honest", "inst": 7, "item": "e39", "raw": "42, 45, 48", "forecast": [42.0, 45.0, 48.0]}
+{"pool": "honest", "inst": 7, "item": "n0", "raw": "67, 68, 69", "forecast": [67.0, 68.0, 69.0]}
+{"pool": "honest", "inst": 7, "item": "n1", "raw": "Based on the given data, there seems to be a slight decreasing trend in the speeds followed by an increase. Here's", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n2", "raw": "66, 67, 68", "forecast": [66.0, 67.0, 68.0]}
+{"pool": "honest", "inst": 7, "item": "n3", "raw": "Based on the provided data, here are the predicted speeds for the next 15 minutes:\n\n68.2,", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n4", "raw": "To predict the short-term highway speeds, we can use a simple linear regression model. Here's how we can proceed:\n\n", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n5", "raw": "Based on the given data, the speed seems to be fluctuating around 67 mph with a slight downward trend.", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n6", "raw": "Based on the provided data, here are the predicted speeds for the next 15 minutes:\n\n+5 minutes: ", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n7", "raw": "68, 67, 66", "forecast": [68.0, 67.0, 66.0]}
+{"pool": "honest", "inst": 7, "item": "n8", "raw": "To forecast the speeds, we'll use a simple moving average approach. Here's how we can calculate the forecasts:\n\n1", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n9", "raw": "65, 64, 63", "forecast": [65.0, 64.0, 63.0]}
+{"pool": "honest", "inst": 7, "item": "n10", "raw": "59, 62, 64", "forecast": [59.0, 62.0, 64.0]}
+{"pool": "honest", "inst": 7, "item": "n11", "raw": "68.8, 68.5, 68.2", "forecast": [68.8, 68.5, 68.2]}
+{"pool": "honest", "inst": 7, "item": "n12", "raw": "64, 64, 63", "forecast": [64.0, 64.0, 63.0]}
+{"pool": "honest", "inst": 7, "item": "n13", "raw": "Based on the given data, here are my predictions for the highway speeds at +5, +10, and +", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n14", "raw": "Based on the provided data, the speed is increasing over the last 15 minutes. To forecast the future speeds,", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n15", "raw": "Based on the provided data, here are the predicted speeds for the next 15 minutes:\n\n+5 minutes: ", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n16", "raw": "61.5, 61.8, 62.1", "forecast": [61.5, 61.8, 62.1]}
+{"pool": "honest", "inst": 7, "item": "n17", "raw": "59, 58, 57", "forecast": [59.0, 58.0, 57.0]}
+{"pool": "honest", "inst": 7, "item": "n18", "raw": "Based on the provided data, the speed seems to be fluctuating around 68-69 mph with some drops", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n19", "raw": "Based on the given data, there seems to be a slight decreasing trend in the speeds, with some fluctuations. To forecast", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "pc1", "raw": "24, 25, 26", "forecast": [24.0, 25.0, 26.0]}
+{"pool": "honest", "inst": 8, "item": "pc2", "raw": "Based on the provided data, the speeds are decreasing over time. To forecast the future speeds, we can apply a simple", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "pf1", "raw": "66, 66, 66", "forecast": [66.0, 66.0, 66.0]}
+{"pool": "honest", "inst": 8, "item": "pf2", "raw": "68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 8, "item": "e0", "raw": "32.0, 30.0, 28.0", "forecast": [32.0, 30.0, 28.0]}
+{"pool": "honest", "inst": 8, "item": "e1", "raw": "25.5, 25.2, 25.0", "forecast": [25.5, 25.2, 25.0]}
+{"pool": "honest", "inst": 8, "item": "e2", "raw": "32.5, 30.2, 28.9", "forecast": [32.5, 30.2, 28.9]}
+{"pool": "honest", "inst": 8, "item": "e3", "raw": "46, 42, 38", "forecast": [46.0, 42.0, 38.0]}
+{"pool": "honest", "inst": 8, "item": "e4", "raw": "62.5, 62.0, 61.5", "forecast": [62.5, 62.0, 61.5]}
+{"pool": "honest", "inst": 8, "item": "e5", "raw": "26.5, 25.0, 24.0", "forecast": [26.5, 25.0, 24.0]}
+{"pool": "honest", "inst": 8, "item": "e6", "raw": "Based on the given data, there's a significant drop in speed at the 55-minute mark, which could indicate", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e7", "raw": "43, 39, 36", "forecast": [43.0, 39.0, 36.0]}
+{"pool": "honest", "inst": 8, "item": "e8", "raw": "27.5, 28.2, 28.9", "forecast": [27.5, 28.2, 28.9]}
+{"pool": "honest", "inst": 8, "item": "e9", "raw": "26.5, 27.8, 29.2", "forecast": [26.5, 27.8, 29.2]}
+{"pool": "honest", "inst": 8, "item": "e10", "raw": "64, 64, 63", "forecast": [64.0, 64.0, 63.0]}
+{"pool": "honest", "inst": 8, "item": "e11", "raw": "14.6, 14.6, 14.6", "forecast": [14.6, 14.6, 14.6]}
+{"pool": "honest", "inst": 8, "item": "e12", "raw": "28.3, 29.0, 29.3", "forecast": [28.3, 29.0, 29.3]}
+{"pool": "honest", "inst": 8, "item": "e13", "raw": "37.5, 38.2, 39.0", "forecast": [37.5, 38.2, 39.0]}
+{"pool": "honest", "inst": 8, "item": "e14", "raw": "24.5, 25.2, 25.9", "forecast": [24.5, 25.2, 25.9]}
+{"pool": "honest", "inst": 8, "item": "e15", "raw": "36.5, 37.2, 37.8", "forecast": [36.5, 37.2, 37.8]}
+{"pool": "honest", "inst": 8, "item": "e16", "raw": "24.5, 25.2, 25.9", "forecast": [24.5, 25.2, 25.9]}
+{"pool": "honest", "inst": 8, "item": "e17", "raw": "24.8, 26.5, 28.1", "forecast": [24.8, 26.5, 28.1]}
+{"pool": "honest", "inst": 8, "item": "e18", "raw": "Based on the given data, the speeds are generally increasing over the last 60 minutes. To forecast the speeds at", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e19", "raw": "31.5, 33.2, 34.8", "forecast": [31.5, 33.2, 34.8]}
+{"pool": "honest", "inst": 8, "item": "e20", "raw": "57, 55, 53", "forecast": [57.0, 55.0, 53.0]}
+{"pool": "honest", "inst": 8, "item": "e21", "raw": "36.5, 37.2, 37.8", "forecast": [36.5, 37.2, 37.8]}
+{"pool": "honest", "inst": 8, "item": "e22", "raw": "29.1, 27.6, 27.1", "forecast": [29.1, 27.6, 27.1]}
+{"pool": "honest", "inst": 8, "item": "e23", "raw": "46.2, 45.8, 45.5", "forecast": [46.2, 45.8, 45.5]}
+{"pool": "honest", "inst": 8, "item": "e24", "raw": "Based on the given data, the speed seems to be increasing over the past 60 minutes. To forecast the speed", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e25", "raw": "55, 53, 51", "forecast": [55.0, 53.0, 51.0]}
+{"pool": "honest", "inst": 8, "item": "e26", "raw": "41.2, 32.1, 20.3", "forecast": [41.2, 32.1, 20.3]}
+{"pool": "honest", "inst": 8, "item": "e27", "raw": "27.5, 28.0, 28.5", "forecast": [27.5, 28.0, 28.5]}
+{"pool": "honest", "inst": 8, "item": "e28", "raw": "Based on the given data, the sensor readings show a general upward trend with some fluctuations. To forecast the speeds at +", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e29", "raw": "59, 57, 55", "forecast": [59.0, 57.0, 55.0]}
+{"pool": "honest", "inst": 8, "item": "e30", "raw": "24.5, 26.2, 28.0", "forecast": [24.5, 26.2, 28.0]}
+{"pool": "honest", "inst": 8, "item": "e31", "raw": "Based on the given data, the speed seems to be decreasing over time. Extrapolating this trend, the forecast", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e32", "raw": "38.6, 39.4, 39.8", "forecast": [38.6, 39.4, 39.8]}
+{"pool": "honest", "inst": 8, "item": "e33", "raw": "53, 52, 51", "forecast": [53.0, 52.0, 51.0]}
+{"pool": "honest", "inst": 8, "item": "e34", "raw": "41.8, 41.8, 41.8", "forecast": [41.8, 41.8, 41.8]}
+{"pool": "honest", "inst": 8, "item": "e35", "raw": "Based on the given data, the speeds are fluctuating and there's no clear trend or seasonality to rely on for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e36", "raw": "Based on the given data, the speeds are fluctuating significantly. To make a reasonable prediction, we might consider the most", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e37", "raw": "Based on the given data, the speed readings seem to be oscillating with some volatility. To forecast the speeds at +", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e38", "raw": "41.2, 42.5, 43.7", "forecast": [41.2, 42.5, 43.7]}
+{"pool": "honest", "inst": 8, "item": "e39", "raw": "26, 30, 32", "forecast": [26.0, 30.0, 32.0]}
+{"pool": "honest", "inst": 8, "item": "n0", "raw": "68.5, 69.0, 69.5", "forecast": [68.5, 69.0, 69.5]}
+{"pool": "honest", "inst": 8, "item": "n1", "raw": "65.5, 66.2, 67.0", "forecast": [65.5, 66.2, 67.0]}
+{"pool": "honest", "inst": 8, "item": "n2", "raw": "69.1, 69.1, 69.1", "forecast": [69.1, 69.1, 69.1]}
+{"pool": "honest", "inst": 8, "item": "n3", "raw": "69, 68, 67", "forecast": [69.0, 68.0, 67.0]}
+{"pool": "honest", "inst": 8, "item": "n4", "raw": "42, 45, 48", "forecast": [42.0, 45.0, 48.0]}
+{"pool": "honest", "inst": 8, "item": "n5", "raw": "66.5, 66.7, 67.1", "forecast": [66.5, 66.7, 67.1]}
+{"pool": "honest", "inst": 8, "item": "n6", "raw": "67.6, 68.2, 68.7", "forecast": [67.6, 68.2, 68.7]}
+{"pool": "honest", "inst": 8, "item": "n7", "raw": "65.5, 66.2, 66.8", "forecast": [65.5, 66.2, 66.8]}
+{"pool": "honest", "inst": 8, "item": "n8", "raw": "68, 67, 66", "forecast": [68.0, 67.0, 66.0]}
+{"pool": "honest", "inst": 8, "item": "n9", "raw": "64, 64, 63", "forecast": [64.0, 64.0, 63.0]}
+{"pool": "honest", "inst": 8, "item": "n10", "raw": "64.5, 65.5, 66.2", "forecast": [64.5, 65.5, 66.2]}
+{"pool": "honest", "inst": 8, "item": "n11", "raw": "68.5, 69.0, 69.5", "forecast": [68.5, 69.0, 69.5]}
+{"pool": "honest", "inst": 8, "item": "n12", "raw": "63.5, 64.0, 64.5", "forecast": [63.5, 64.0, 64.5]}
+{"pool": "honest", "inst": 8, "item": "n13", "raw": "61.5, 62.0, 62.5", "forecast": [61.5, 62.0, 62.5]}
+{"pool": "honest", "inst": 8, "item": "n14", "raw": "67, 66, 65", "forecast": [67.0, 66.0, 65.0]}
+{"pool": "honest", "inst": 8, "item": "n15", "raw": "63.5, 64.0, 64.5", "forecast": [63.5, 64.0, 64.5]}
+{"pool": "honest", "inst": 8, "item": "n16", "raw": "57.8, 58.3, 59.1", "forecast": [57.8, 58.3, 59.1]}
+{"pool": "honest", "inst": 8, "item": "n17", "raw": "57, 56, 55", "forecast": [57.0, 56.0, 55.0]}
+{"pool": "honest", "inst": 8, "item": "n18", "raw": "68.5, 68.6, 68.7", "forecast": [68.5, 68.6, 68.7]}
+{"pool": "honest", "inst": 8, "item": "n19", "raw": "62.5, 62.8, 63.0", "forecast": [62.5, 62.8, 63.0]}
+{"pool": "honest", "inst": 9, "item": "pc1", "raw": "25, 23, 22", "forecast": [25.0, 23.0, 22.0]}
+{"pool": "honest", "inst": 9, "item": "pc2", "raw": "Based on the provided data, the speed readings are decreasing over time. To forecast the speed at +5, +1", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "pf1", "raw": "65, 65, 65", "forecast": [65.0, 65.0, 65.0]}
+{"pool": "honest", "inst": 9, "item": "pf2", "raw": "68, 68, 68", "forecast": [68.0, 68.0, 68.0]}
+{"pool": "honest", "inst": 9, "item": "e0", "raw": "30, 29, 28", "forecast": [30.0, 29.0, 28.0]}
+{"pool": "honest", "inst": 9, "item": "e1", "raw": "24, 25, 24", "forecast": [24.0, 25.0, 24.0]}
+{"pool": "honest", "inst": 9, "item": "e2", "raw": "30.5, 30.2, 29.8", "forecast": [30.5, 30.2, 29.8]}
+{"pool": "honest", "inst": 9, "item": "e3", "raw": "45, 42, 40", "forecast": [45.0, 42.0, 40.0]}
+{"pool": "honest", "inst": 9, "item": "e4", "raw": "61, 60, 59", "forecast": [61.0, 60.0, 59.0]}
+{"pool": "honest", "inst": 9, "item": "e5", "raw": "25.5, 24.2, 23.1", "forecast": [25.5, 24.2, 23.1]}
+{"pool": "honest", "inst": 9, "item": "e6", "raw": "Based on the given data, there's a significant decrease in speed around the 50-minute mark. To forecast future", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e7", "raw": "42.5, 40.3, 38.1", "forecast": [42.5, 40.3, 38.1]}
+{"pool": "honest", "inst": 9, "item": "e8", "raw": "24.5, 25.2, 25.8", "forecast": [24.5, 25.2, 25.8]}
+{"pool": "honest", "inst": 9, "item": "e9", "raw": "25.0, 26.5, 28.0", "forecast": [25.0, 26.5, 28.0]}
+{"pool": "honest", "inst": 9, "item": "e10", "raw": "63, 63, 62", "forecast": [63.0, 63.0, 62.0]}
+{"pool": "honest", "inst": 9, "item": "e11", "raw": "16.2, 16.0, 15.8", "forecast": [16.2, 16.0, 15.8]}
+{"pool": "honest", "inst": 9, "item": "e12", "raw": "26.5, 27.2, 27.9", "forecast": [26.5, 27.2, 27.9]}
+{"pool": "honest", "inst": 9, "item": "e13", "raw": "39.4, 40.5, 41.6", "forecast": [39.4, 40.5, 41.6]}
+{"pool": "honest", "inst": 9, "item": "e14", "raw": "25.5, 24.0, 22.5", "forecast": [25.5, 24.0, 22.5]}
+{"pool": "honest", "inst": 9, "item": "e15", "raw": "34, 35, 36", "forecast": [34.0, 35.0, 36.0]}
+{"pool": "honest", "inst": 9, "item": "e16", "raw": "25.5, 26.2, 26.8", "forecast": [25.5, 26.2, 26.8]}
+{"pool": "honest", "inst": 9, "item": "e17", "raw": "27, 26, 25", "forecast": [27.0, 26.0, 25.0]}
+{"pool": "honest", "inst": 9, "item": "e18", "raw": "Based on the given data, the sensor readings show a somewhat cyclical pattern with an increasing trend. Here are my forecasts", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e19", "raw": "35, 38, 42", "forecast": [35.0, 38.0, 42.0]}
+{"pool": "honest", "inst": 9, "item": "e20", "raw": "Based on the provided data, the speed appears to be decreasing over time. Here are my predictions for the next 1", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e21", "raw": "Based on the provided data, there's a clear trend of decreasing speed over the past 60 minutes. To forecast", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e22", "raw": "28, 29, 30", "forecast": [28.0, 29.0, 30.0]}
+{"pool": "honest", "inst": 9, "item": "e23", "raw": "44.5, 43.8, 43.2", "forecast": [44.5, 43.8, 43.2]}
+{"pool": "honest", "inst": 9, "item": "e24", "raw": "Based on the given data, the speeds seem to be oscillating between 15 mph and 26 mph.", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e25", "raw": "52, 50, 48", "forecast": [52.0, 50.0, 48.0]}
+{"pool": "honest", "inst": 9, "item": "e26", "raw": "45.6, 43.2, 40.8", "forecast": [45.6, 43.2, 40.8]}
+{"pool": "honest", "inst": 9, "item": "e27", "raw": "25.5, 25.2, 25.0", "forecast": [25.5, 25.2, 25.0]}
+{"pool": "honest", "inst": 9, "item": "e28", "raw": "Based on the given data, the speeds seem to be generally increasing over the past hour. Here are my predictions for the", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e29", "raw": "57.5, 56.2, 55.1", "forecast": [57.5, 56.2, 55.1]}
+{"pool": "honest", "inst": 9, "item": "e30", "raw": "20.4, 22.1, 23.8", "forecast": [20.4, 22.1, 23.8]}
+{"pool": "honest", "inst": 9, "item": "e31", "raw": "Based on the given data, the speeds seem to be fluctuating significantly. To provide a reasonable forecast, I'll use", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e32", "raw": "39.2, 39.4, 39.6", "forecast": [39.2, 39.4, 39.6]}
+{"pool": "honest", "inst": 9, "item": "e33", "raw": "54, 53, 52", "forecast": [54.0, 53.0, 52.0]}
+{"pool": "honest", "inst": 9, "item": "e34", "raw": "45.2, 42.3, 39.4", "forecast": [45.2, 42.3, 39.4]}
+{"pool": "honest", "inst": 9, "item": "e35", "raw": "Based on the given data, the speed appears to be generally increasing over the past hour. Here are my predictions for the", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e36", "raw": "Based on the given data, the speed readings show a trend of decreasing and then increasing speeds. Here's how I would", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e37", "raw": "Based on the given data, the sensor readings show a significant increase in speed around the 40-minute mark, followed", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e38", "raw": "45, 48, 51", "forecast": [45.0, 48.0, 51.0]}
+{"pool": "honest", "inst": 9, "item": "e39", "raw": "25, 28, 30", "forecast": [25.0, 28.0, 30.0]}
+{"pool": "honest", "inst": 9, "item": "n0", "raw": "66.5, 67.2, 67.8", "forecast": [66.5, 67.2, 67.8]}
+{"pool": "honest", "inst": 9, "item": "n1", "raw": "67, 68, 69", "forecast": [67.0, 68.0, 69.0]}
+{"pool": "honest", "inst": 9, "item": "n2", "raw": "67.5, 68.2, 69.1", "forecast": [67.5, 68.2, 69.1]}
+{"pool": "honest", "inst": 9, "item": "n3", "raw": "68, 67, 66", "forecast": [68.0, 67.0, 66.0]}
+{"pool": "honest", "inst": 9, "item": "n4", "raw": "48.5, 50.2, 49.8", "forecast": [48.5, 50.2, 49.8]}
+{"pool": "honest", "inst": 9, "item": "n5", "raw": "67, 66, 65", "forecast": [67.0, 66.0, 65.0]}
+{"pool": "honest", "inst": 9, "item": "n6", "raw": "68.2, 68.4, 68.6", "forecast": [68.2, 68.4, 68.6]}
+{"pool": "honest", "inst": 9, "item": "n7", "raw": "67, 66, 65", "forecast": [67.0, 66.0, 65.0]}
+{"pool": "honest", "inst": 9, "item": "n8", "raw": "67.5, 67.2, 67.0", "forecast": [67.5, 67.2, 67.0]}
+{"pool": "honest", "inst": 9, "item": "n9", "raw": "65.0, 64.5, 64.0", "forecast": [65.0, 64.5, 64.0]}
+{"pool": "honest", "inst": 9, "item": "n10", "raw": "66.5, 66.8, 67.1", "forecast": [66.5, 66.8, 67.1]}
+{"pool": "honest", "inst": 9, "item": "n11", "raw": "69.0, 69.5, 70.0", "forecast": [69.0, 69.5, 70.0]}
+{"pool": "honest", "inst": 9, "item": "n12", "raw": "64.5, 64.2, 63.9", "forecast": [64.5, 64.2, 63.9]}
+{"pool": "honest", "inst": 9, "item": "n13", "raw": "62.5, 62.0, 61.5", "forecast": [62.5, 62.0, 61.5]}
+{"pool": "honest", "inst": 9, "item": "n14", "raw": "66.5, 67.2, 67.8", "forecast": [66.5, 67.2, 67.8]}
+{"pool": "honest", "inst": 9, "item": "n15", "raw": "64.0, 64.2, 64.4", "forecast": [64.0, 64.2, 64.4]}
+{"pool": "honest", "inst": 9, "item": "n16", "raw": "59.5, 60.2, 60.8", "forecast": [59.5, 60.2, 60.8]}
+{"pool": "honest", "inst": 9, "item": "n17", "raw": "58, 59, 60", "forecast": [58.0, 59.0, 60.0]}
+{"pool": "honest", "inst": 9, "item": "n18", "raw": "69.0, 68.8, 68.6", "forecast": [69.0, 68.8, 68.6]}
+{"pool": "honest", "inst": 9, "item": "n19", "raw": "63.5, 63.1, 63.0", "forecast": [63.5, 63.1, 63.0]}
+{"pool": "honest", "inst": 10, "item": "pc1", "raw": "50, 52, 54", "forecast": [50.0, 52.0, 54.0]}
+{"pool": "honest", "inst": 10, "item": "pc2", "raw": "40, 38, 36", "forecast": [40.0, 38.0, 36.0]}
+{"pool": "honest", "inst": 10, "item": "pf1", "raw": "Based on the given data, the sensor readings have been oscillating between 64 and 66 mph with a", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "pf2", "raw": "Based on the provided data, the sensor readings are mostly stable around 68 mph with some fluctuations. To forecast the", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e0", "raw": "Based on the given data, the speeds are generally decreasing over the last 60 minutes. Here are my predictions for", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e1", "raw": "Based on the given data, the speeds are fluctuating but there's a slight upward trend. Here are my predictions:\n\n", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e2", "raw": "Based on the provided data, the speed seems to fluctuate with no clear linear trend. Therefore, I'll use the", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e3", "raw": "32.1, 34.7, 37.4", "forecast": [32.1, 34.7, 37.4]}
+{"pool": "honest", "inst": 10, "item": "e4", "raw": "59.5, 60.2, 60.9", "forecast": [59.5, 60.2, 60.9]}
+{"pool": "honest", "inst": 10, "item": "e5", "raw": "Based on the given data, the speeds are fluctuating but generally increasing over the past hour. Here are my predictions for", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e6", "raw": "48, 45, 42", "forecast": [48.0, 45.0, 42.0]}
+{"pool": "honest", "inst": 10, "item": "e7", "raw": "38, 40, 39", "forecast": [38.0, 40.0, 39.0]}
+{"pool": "honest", "inst": 10, "item": "e8", "raw": "Based on the provided data, the speeds are fluctuating but there's a slight increasing trend. Here are my predictions:\n\n", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e9", "raw": "Based on the given data, the speed seems to be increasing over the past 60 minutes. Here are my predictions", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e10", "raw": "Based on the given data, the speed seems to oscillate around 63 mph with a range of about 4", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e11", "raw": "Based on the given data, the speed seems to be fluctuating but shows an overall increasing trend. Here are my predictions", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e12", "raw": "Based on the given data, the speeds are fluctuating but there's a general increasing trend. Here are my predictions:\n\n", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e13", "raw": "Based on the given data, the speed seems to be increasing over time. Here are my predictions:\n\n+5 minutes:", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e14", "raw": "Based on the given data, the sensor readings show some variability, but there's a general upward trend in the last few", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e15", "raw": "Based on the given data, the speeds are fluctuating but there's a slight increasing trend. Here are my predictions:\n\n", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e16", "raw": "Based on the provided data, the speed seems to be increasing over time. Here are my forecasts for the next 1", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e17", "raw": "28.5, 29.8, 30.2", "forecast": [28.5, 29.8, 30.2]}
+{"pool": "honest", "inst": 10, "item": "e18", "raw": "19.8, 20.1, 20.5", "forecast": [19.8, 20.1, 20.5]}
+{"pool": "honest", "inst": 10, "item": "e19", "raw": "Based on the given data, the sensor readings show a pattern of increasing speed in the last 30 minutes, followed", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e20", "raw": "28.9, 27.3, 20.6", "forecast": [28.9, 27.3, 20.6]}
+{"pool": "honest", "inst": 10, "item": "e21", "raw": "42, 40, 38", "forecast": [42.0, 40.0, 38.0]}
+{"pool": "honest", "inst": 10, "item": "e22", "raw": "Based on the provided data, the speed readings show an increasing trend with some fluctuations. To forecast the speed at +5", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e23", "raw": "44, 43, 42", "forecast": [44.0, 43.0, 42.0]}
+{"pool": "honest", "inst": 10, "item": "e24", "raw": "22.6, 21.7, 18.4", "forecast": [22.6, 21.7, 18.4]}
+{"pool": "honest", "inst": 10, "item": "e25", "raw": "52.5, 51.0, 49.5", "forecast": [52.5, 51.0, 49.5]}
+{"pool": "honest", "inst": 10, "item": "e26", "raw": "Based on the provided data, the speed is decreasing significantly over the past hour. Here are my predictions for the next ", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e27", "raw": "Based on the provided data, the speed is decreasing. Here are my forecasts for the next 15 minutes:\n\n2", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e28", "raw": "35, 33, 31", "forecast": [35.0, 33.0, 31.0]}
+{"pool": "honest", "inst": 10, "item": "e29", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e30", "raw": "55, 52, 50", "forecast": [55.0, 52.0, 50.0]}
+{"pool": "honest", "inst": 10, "item": "e31", "raw": "35.0, 33.1, 35.0", "forecast": [35.0, 33.1, 35.0]}
+{"pool": "honest", "inst": 10, "item": "e32", "raw": "39.0, 38.5, 38.0", "forecast": [39.0, 38.5, 38.0]}
+{"pool": "honest", "inst": 10, "item": "e33", "raw": "54, 53, 52", "forecast": [54.0, 53.0, 52.0]}
+{"pool": "honest", "inst": 10, "item": "e34", "raw": "Based on the given data, the speed readings show an increasing trend followed by a decrease. To forecast the speed at +", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e35", "raw": "12.0, 11.5, 11.0", "forecast": [12.0, 11.5, 11.0]}
+{"pool": "honest", "inst": 10, "item": "e36", "raw": "25.0, 22.0, 19.5", "forecast": [25.0, 22.0, 19.5]}
+{"pool": "honest", "inst": 10, "item": "e37", "raw": "16.6, 17.8, 15.1", "forecast": [16.6, 17.8, 15.1]}
+{"pool": "honest", "inst": 10, "item": "e38", "raw": "Based on the given data, there's a clear increasing trend in the speeds over the last 60 minutes. Here", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e39", "raw": "Based on the given data, there's a clear decrease in speed over the past 60 minutes. To forecast the", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "n0", "raw": "Based on the provided data, the speed appears to be increasing over the past 60 minutes. Here are my predictions", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "n1", "raw": "67.1, 67.3, 67.5", "forecast": [67.1, 67.3, 67.5]}
+{"pool": "honest", "inst": 10, "item": "n2", "raw": "Based on the provided data, here are the predicted speeds for the next 15 minutes:\n\n+5 minutes: ", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "n3", "raw": "68.4, 68.2, 67.9", "forecast": [68.4, 68.2, 67.9]}
+{"pool": "honest", "inst": 10, "item": "n4", "raw": "48, 50, 49", "forecast": [48.0, 50.0, 49.0]}
+{"pool": "honest", "inst": 10, "item": "n5", "raw": "Based on the provided data, the speed seems to oscillate around 67 mph with a range of about 1", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "n6", "raw": "Based on the given data, the speed seems to fluctuate around 67-69 mph with no clear trend", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "n7", "raw": "67.0, 66.5, 66.0", "forecast": [67.0, 66.5, 66.0]}
+{"pool": "honest", "inst": 10, "item": "n8", "raw": "Based on the given data, the speed seems to fluctuate around 67 mph with a range of about 3", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "n9", "raw": "65, 64, 63", "forecast": [65.0, 64.0, 63.0]}
+{"pool": "honest", "inst": 10, "item": "n10", "raw": "57.5, 60.2, 62.8", "forecast": [57.5, 60.2, 62.8]}
+{"pool": "honest", "inst": 10, "item": "n11", "raw": "69.0, 69.5, 70.0", "forecast": [69.0, 69.5, 70.0]}
+{"pool": "honest", "inst": 10, "item": "n12", "raw": "Based on the provided data, the speed seems to fluctuate with a slight increasing trend. Here are my predictions for the", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "n13", "raw": "62.5, 62.0, 61.5", "forecast": [62.5, 62.0, 61.5]}
+{"pool": "honest", "inst": 10, "item": "n14", "raw": "Based on the given data, the speed seems to be increasing over the last 60 minutes. Here are my predictions", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "n15", "raw": "64.0, 63.5, 63.2", "forecast": [64.0, 63.5, 63.2]}
+{"pool": "honest", "inst": 10, "item": "n16", "raw": "62, 60, 58", "forecast": [62.0, 60.0, 58.0]}
+{"pool": "honest", "inst": 10, "item": "n17", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n18", "raw": "69, 68, 67", "forecast": [69.0, 68.0, 67.0]}
+{"pool": "honest", "inst": 10, "item": "n19", "raw": "Based on the given data, the speed seems to be decreasing slightly over the past 60 minutes. To forecast the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "pc1", "raw": "30, 28, 26", "forecast": [30.0, 28.0, 26.0]}
+{"pool": "honest", "inst": 11, "item": "pc2", "raw": "To make a forecast, we can use a simple linear regression model that assumes a constant speed change over time. Here's", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "pf1", "raw": "Based on the provided data, the sensor readings are fluctuating between 64 and 66 mph with a slight", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "pf2", "raw": "Based on the given data, the sensor readings are quite stable, oscillating between 67 and 68 mph", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e0", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e1", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e2", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e3", "raw": "55, 52, 50", "forecast": [55.0, 52.0, 50.0]}
+{"pool": "honest", "inst": 11, "item": "e4", "raw": "Based on the provided data, the speed seems to be gradually decreasing over the past hour. Here are my forecasts for the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e5", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e6", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e7", "raw": "Based on the given data, the speeds are fluctuating but showing an overall upward trend. Here are my predictions for the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e8", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e9", "raw": "42.5, 40.2, 38.4", "forecast": [42.5, 40.2, 38.4]}
+{"pool": "honest", "inst": 11, "item": "e10", "raw": "58, 59, 60", "forecast": [58.0, 59.0, 60.0]}
+{"pool": "honest", "inst": 11, "item": "e11", "raw": "Given the data, the sensor readings seem to be fluctuating significantly. To provide a simple forecast, we can take the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e12", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e13", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e14", "raw": "30.7, 25.6, 24.9", "forecast": [30.7, 25.6, 24.9]}
+{"pool": "honest", "inst": 11, "item": "e15", "raw": "The forecasted speeds are: 37.5, 38.2, 39.0", "forecast": [37.5, 38.2, 39.0]}
+{"pool": "honest", "inst": 11, "item": "e16", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e17", "raw": "30.5, 31.2, 31.7", "forecast": [30.5, 31.2, 31.7]}
+{"pool": "honest", "inst": 11, "item": "e18", "raw": "The sensor data shows a pattern of increasing and decreasing speeds over the 60-minute period. To forecast the speeds at", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e19", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e20", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e21", "raw": "To make a forecast, we can use a simple moving average approach. We'll take the average of the last 5", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e22", "raw": "30.2, 28.7, 27.2", "forecast": [30.2, 28.7, 27.2]}
+{"pool": "honest", "inst": 11, "item": "e23", "raw": "Based on the given data, the speed is increasing over the last 10 minutes. Continuing this trend, the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e24", "raw": "Given the data, the speeds seem to be fluctuating with no clear upward or downward trend. To make a simple forecast", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e25", "raw": "Based on the provided data, here are the predicted speeds at +5, +10, and +15 minutes", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e26", "raw": "To make these predictions, I'll use a simple linear regression model based on the recent data. Here's how I'll", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e27", "raw": "52.0, 50.0, 48.0", "forecast": [52.0, 50.0, 48.0]}
+{"pool": "honest", "inst": 11, "item": "e28", "raw": "To make a forecast, we can use a simple moving average approach. We'll take the average of the last 5", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e29", "raw": "To make a forecast, we can use a simple moving average. Let's use a window size of 5 (the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e30", "raw": "17.8, 18.0, 18.2", "forecast": [17.8, 18.0, 18.2]}
+{"pool": "honest", "inst": 11, "item": "e31", "raw": "Given the data, it seems like the speed is decreasing over time. However, since we only have 12 data", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e32", "raw": "40, 40, 39", "forecast": [40.0, 40.0, 39.0]}
+{"pool": "honest", "inst": 11, "item": "e33", "raw": "To make a forecast, we can use a simple moving average approach. Let's take the average of the last 5", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e34", "raw": "30, 28, 26", "forecast": [30.0, 28.0, 26.0]}
+{"pool": "honest", "inst": 11, "item": "e35", "raw": "21.5, 18.2, 15.8", "forecast": [21.5, 18.2, 15.8]}
+{"pool": "honest", "inst": 11, "item": "e36", "raw": "32.5, 21.0, 15.2", "forecast": [32.5, 21.0, 15.2]}
+{"pool": "honest", "inst": 11, "item": "e37", "raw": "The sensor readings show significant variability, making it challenging to predict future speeds accurately with only 12 data points. However", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e38", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e39", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n0", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n1", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n2", "raw": "55.2, 57.3, 60.4", "forecast": [55.2, 57.3, 60.4]}
+{"pool": "honest", "inst": 11, "item": "n3", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n4", "raw": "Based on the provided data, the speeds are increasing over the past 60 minutes. Here are the forecasts for the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n5", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n6", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n7", "raw": "Based on the provided data, here are the predicted speeds at +5, +10, and +15 minutes", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n8", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n9", "raw": "To forecast the speed, we can use a simple moving average of the last three data points, as the data shows some", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n10", "raw": "Based on the provided data, the speed is increasing over the past 60 minutes. Here are the forecasts for the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n11", "raw": "70.2, 70.0, 69.7", "forecast": [70.2, 70.0, 69.7]}
+{"pool": "honest", "inst": 11, "item": "n12", "raw": "To make a forecast, we can use a simple moving average of the last three speed readings, as the speed seems to", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n13", "raw": "58, 60, 59", "forecast": [58.0, 60.0, 59.0]}
+{"pool": "honest", "inst": 11, "item": "n14", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n15", "raw": "Based on the provided data, the speed seems to be increasing gradually. Here's my forecast for the next 15", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n16", "raw": "To make these predictions, we can use a simple moving average (SMA) model, which is a common approach for", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n17", "raw": "Based on the given data, the speeds are generally increasing. Here are the forecasted speeds for the next 15", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n18", "raw": "The current speed is 68.5 mph. Assuming a simple linear trend based on the last few readings, the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n19", "raw": "To forecast the speed, we can use a simple moving average of the last three data points, as the data seems to", "forecast": null}

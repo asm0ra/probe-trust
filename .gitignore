@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+data/*
+!data/README.md
+*.bak*
+results/*.flag
+agentic/logs/
+agentic/figs/
+figures_final/
+paper/figs/
+paper/*.docx
+paper/paper_numbers.json
+
+# run logs and resume flags
+results/*.log
+results/*.flag
+logs/
+logs_*.txt

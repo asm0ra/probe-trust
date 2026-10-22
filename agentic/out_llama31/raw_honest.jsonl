@@ -1,0 +1,768 @@
+{"pool": "honest", "inst": 0, "item": "pc1", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average speed", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "pc2", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "pf1", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "pf2", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e0", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e1", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e2", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e3", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e4", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e5", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e6", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e7", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e8", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e9", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e10", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e11", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e12", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e13", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e14", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e15", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e16", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e17", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e18", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e19", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e20", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e21", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e22", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e23", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e24", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e25", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e26", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e27", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e28", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e29", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e30", "raw": "To forecast the speed, I'll use a simple linear extrapolation based on the last 5 speed readings. \n\nThe", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e31", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e32", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e33", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e34", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e35", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e36", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e37", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e38", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "e39", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n0", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n1", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n2", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n3", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n4", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n5", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n6", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n7", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n8", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n9", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n10", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n11", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n12", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n13", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n14", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n15", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n16", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n17", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n18", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 0, "item": "n19", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "pc1", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed data.\n\nFirst, let's", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "pc2", "raw": "To make a prediction, I'll use a simple linear regression model based on the trend in the speed readings.\n\nThe speed", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "pf1", "raw": "To make a prediction, we'll use a simple linear regression model based on the given speed data.\n\nFirst, we need", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "pf2", "raw": "To make a prediction, we'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e0", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e1", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e2", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e3", "raw": "To forecast the speed, we'll use a simple moving average model. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e4", "raw": "To make a prediction, we'll use a simple moving average model. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e5", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e6", "raw": "To make a prediction, we'll use a simple moving average model. \n\nFirst, calculate the moving averages for 1", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e7", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e8", "raw": "To forecast the speed, we'll use a simple moving average model. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e9", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e10", "raw": "To forecast the speed, I'll use a simple linear extrapolation based on the current trend.\n\nThe current trend can be", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e11", "raw": "To forecast the speed, I'll use a simple linear extrapolation based on the trend in the last 5 readings:", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e12", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e13", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e14", "raw": "To forecast the speed, we'll use a simple linear regression model based on the historical speed data.\n\nFirst, we need", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e15", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e16", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e17", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the last three readings. \n\nThe last three", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e18", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e19", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e20", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e21", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e22", "raw": "To forecast the speed, I'll use a simple linear extrapolation based on the trend in the last 5 readings (", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e23", "raw": "To make a prediction, we'll use a simple linear regression model based on the speed readings.\n\nFirst, let's calculate", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e24", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e25", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e26", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e27", "raw": "To make a prediction, we'll use a simple moving average model. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e28", "raw": "To make a prediction, we'll use a simple linear regression model based on the last 6 data points: [29", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e29", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e30", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings (", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e31", "raw": "To make a prediction, we'll use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e32", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e33", "raw": "To forecast the speed, we'll use a simple linear regression model based on the trend of the speed readings.\n\nThe speed", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e34", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e35", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e36", "raw": "To forecast the speed, we'll use a simple linear extrapolation method. \n\nFirst, let's calculate the slope (", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e37", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e38", "raw": "To forecast the speed, we'll use a simple moving average model. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "e39", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n0", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n1", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n2", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n3", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, calculate the moving average for each ", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n4", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n5", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n6", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average speed", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n7", "raw": "To forecast the speed, I'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n8", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the given", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n9", "raw": "To make a prediction, we'll use a simple linear regression model based on the data given.\n\nFirst, let's calculate", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n10", "raw": "To forecast the speed, I'll use a simple linear extrapolation based on the trend in the last 5 readings:", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n11", "raw": "To forecast the speed, I'll use a simple linear extrapolation based on the trend in the last 5 readings:", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n12", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n13", "raw": "To forecast the speed, we'll use a simple linear regression model based on the last 10 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n14", "raw": "To make a prediction, we'll use a simple linear regression model based on the speed readings.\n\nFirst, let's calculate", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n15", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the recent trend.\n\nRecent trend: The last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n16", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n17", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the most recent speed readings.\n\nCurrent speed", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n18", "raw": "To forecast the speed, we'll use a simple moving average method. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 1, "item": "n19", "raw": "To forecast the speed, we'll use a simple linear extrapolation based on the trend in the last 5 readings.", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "pc1", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "pc2", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "pf1", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "pf2", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nThe moving average is calculated by taking the average", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e0", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e1", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e2", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e3", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e4", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e5", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e6", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e7", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e8", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e9", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e10", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e11", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e12", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e13", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e14", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e15", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e16", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e17", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e18", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e19", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e20", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e21", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e22", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e23", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e24", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e25", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e26", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e27", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e28", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e29", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e30", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e31", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e32", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e33", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e34", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e35", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e36", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e37", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e38", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "e39", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n0", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n1", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n2", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n3", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n4", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n5", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n6", "raw": "To forecast the speed, I'll use a simple moving average model. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n7", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n8", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n9", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n10", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n11", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n12", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n13", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n14", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n15", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n16", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n17", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n18", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 2, "item": "n19", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "pc1", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 60 minutes of data.\n\nFirst", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "pc2", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 12 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "pf1", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 12 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "pf2", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e0", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e1", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e2", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the last 10 data points", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e3", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e4", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e5", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e6", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e7", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e8", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 6 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e9", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e10", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e11", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e12", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 60 minutes of data.\n\nFirst", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e13", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the last 10 data points", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e14", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e15", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e16", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e17", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e18", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e19", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 60 minutes of data.\n\nFirst", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e20", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the last 5 minutes.", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e21", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the last 5 minutes.", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e22", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e23", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e24", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e25", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e26", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e27", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e28", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e29", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e30", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e31", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e32", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 6 data points.\n\nThe last", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e33", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e34", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e35", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 60 minutes of data.\n\nFirst", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e36", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e37", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e38", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "e39", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n0", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n1", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the last 10 data points", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n2", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n3", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n4", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n5", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n6", "raw": "To forecast the speed, I will use a simple moving average method. \n\nFirst, I calculate the moving average of the", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n7", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 6 data points.\n\nThe last", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n8", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n9", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 60 minutes of data. \n\n", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n10", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n11", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 6 data points: [68", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n12", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n13", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n14", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n15", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 60 minutes of data.\n\nFirst", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n16", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n17", "raw": "To forecast the speed, I will use a simple linear regression model based on the trend of the speed readings.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n18", "raw": "To forecast the speed, I will use a simple linear regression model based on the historical data. \n\nFirst, I need", "forecast": null}
+{"pool": "honest", "inst": 3, "item": "n19", "raw": "To forecast the speed, I will use a simple linear regression model based on the last 6 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "pc1", "raw": "To forecast the speed, I'll analyze the given data and identify a pattern. \n\nLooking at the data, there's", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "pc2", "raw": "To forecast the speed, I'll use a simple exponential smoothing (SES) model with alpha = 0.2.", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "pf1", "raw": "66, 66, 65", "forecast": [66.0, 66.0, 65.0]}
+{"pool": "honest", "inst": 4, "item": "pf2", "raw": "67, 66, 65", "forecast": [67.0, 66.0, 65.0]}
+{"pool": "honest", "inst": 4, "item": "e0", "raw": "To forecast the speed, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e1", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical speed data. Here's the calculation", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e2", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 12 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e3", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 12 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e4", "raw": "61.3, 60.3, 59.4", "forecast": [61.3, 60.3, 59.4]}
+{"pool": "honest", "inst": 4, "item": "e5", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 12 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e6", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e7", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 12 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e8", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical speed data.\n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e9", "raw": "To forecast the speeds, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e10", "raw": "62.5, 62.3, 61.9", "forecast": [62.5, 62.3, 61.9]}
+{"pool": "honest", "inst": 4, "item": "e11", "raw": "Based on the historical speed data, I'll use a simple moving average method to forecast the future speeds. \n\nHistorical", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e12", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 60 minutes of data.\n\nFirst", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e13", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e14", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 5 data points (since they", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e15", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 60 minutes of data.\n\nFirst", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e16", "raw": "Based on the historical speed data, I'll use a simple moving average method to forecast the future speeds. \n\nHistorical", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e17", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 60 minutes of data.\n\nFirst", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e18", "raw": "Based on the historical speed data, I'll use a simple moving average method to forecast the future speeds. \n\nFor +", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e19", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e20", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e21", "raw": "To forecast the speed, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e22", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e23", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical speed data. Here's the forecast", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e24", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e25", "raw": "Based on the historical speed data, I'll use a simple moving average method to forecast the future speeds. \n\nTo calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e26", "raw": "Based on the historical speed data, I will use a simple moving average method to forecast the future speeds. \n\nTo calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e27", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e28", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 60 minutes of data.\n\nFirst", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e29", "raw": "Based on the historical speed data, I'll use a simple moving average method to forecast the future speeds. \n\nTo calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e30", "raw": "To forecast the speed, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e31", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical speed data. Here's the forecast", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e32", "raw": "Based on the historical speed data, I'll use a simple moving average method to forecast the speeds.\n\nCurrent 5-minute", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e33", "raw": "To forecast the speed, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e34", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical speed data. Here's the forecast", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e35", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 8 data points: [11", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e36", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e37", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e38", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical speed data. Here's the forecast", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "e39", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n0", "raw": "Based on the historical speed data, I'll use a simple moving average method to forecast the future speeds. \n\nTo calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n1", "raw": "Based on the provided speed readings, I'll use a simple linear extrapolation method to forecast the speed at +5,", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n2", "raw": "61.9, 63.7, 65.4", "forecast": [61.9, 63.7, 65.4]}
+{"pool": "honest", "inst": 4, "item": "n3", "raw": "66.4, 66.9, 67.3", "forecast": [66.4, 66.9, 67.3]}
+{"pool": "honest", "inst": 4, "item": "n4", "raw": "To forecast the speed, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n5", "raw": "66.3, 66.4, 66.5", "forecast": [66.3, 66.4, 66.5]}
+{"pool": "honest", "inst": 4, "item": "n6", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n7", "raw": "63.2, 62.4, 61.7", "forecast": [63.2, 62.4, 61.7]}
+{"pool": "honest", "inst": 4, "item": "n8", "raw": "66.3, 66.0, 65.7", "forecast": [66.3, 66.0, 65.7]}
+{"pool": "honest", "inst": 4, "item": "n9", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical speed data.\n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n10", "raw": "Based on the historical speed data, I will use a simple moving average method to forecast the future speeds. \n\nTo calculate", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n11", "raw": "Based on the historical speed data, I'll use a simple moving average method to forecast the future speeds. \n\nHistorical", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n12", "raw": "Based on the historical speed data, I'll use a simple linear extrapolation method to predict the speed at +5,", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n13", "raw": "To forecast the speed, I'll use a simple moving average model. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n14", "raw": "66.8, 66.1, 65.5", "forecast": [66.8, 66.1, 65.5]}
+{"pool": "honest", "inst": 4, "item": "n15", "raw": "To forecast the speed, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n16", "raw": "61.9, 60.7, 59.4", "forecast": [61.9, 60.7, 59.4]}
+{"pool": "honest", "inst": 4, "item": "n17", "raw": "To forecast the speed, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n18", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 12 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 4, "item": "n19", "raw": "Based on the historical speed data, I'll use a simple moving average method to forecast the future speeds. \n\nMoving average", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "pc1", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. This method assumes that the trend will continue over", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "pc2", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. This method assumes that the trend will continue over", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "pf1", "raw": "66, 66, 66", "forecast": [66.0, 66.0, 66.0]}
+{"pool": "honest", "inst": 5, "item": "pf2", "raw": "69, 67, 66", "forecast": [69.0, 67.0, 66.0]}
+{"pool": "honest", "inst": 5, "item": "e0", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e1", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e2", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e3", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e4", "raw": "61.3, 61.0, 60.7", "forecast": [61.3, 61.0, 60.7]}
+{"pool": "honest", "inst": 5, "item": "e5", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e6", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e7", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e8", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e9", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. This method assumes that the trend will continue over", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e10", "raw": "Based on the historical data, I will use a simple moving average method to forecast the speed. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e11", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e12", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e13", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e14", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e15", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e16", "raw": "Based on the historical data, I will use a simple moving average method to forecast the speed. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e17", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e18", "raw": "Based on the provided data, I'll use a simple linear regression model to forecast the speed at +5, +10", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e19", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e20", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e21", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average increase", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e22", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e23", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e24", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e25", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e26", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e27", "raw": "Based on the trend of the speed readings, I predict the speed at +5, +10, and +15 minutes", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 5, "item": "e28", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e29", "raw": "Based on the provided data, I'll use a simple linear regression model to forecast the speed at +5, +10", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e30", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e31", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e32", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e33", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the trend of the last 5 speed", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e34", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e35", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e36", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e37", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e38", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "e39", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n0", "raw": "66.5, 66.9, 67.3", "forecast": [66.5, 66.9, 67.3]}
+{"pool": "honest", "inst": 5, "item": "n1", "raw": "66.4, 65.9, 65.3", "forecast": [66.4, 65.9, 65.3]}
+{"pool": "honest", "inst": 5, "item": "n2", "raw": "Based on the provided data, I will use a simple linear regression model to forecast the speed at +5, +10", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n3", "raw": "69.2, 68.4, 67.6", "forecast": [69.2, 68.4, 67.6]}
+{"pool": "honest", "inst": 5, "item": "n4", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the last three data points. \n\nSpeed", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n5", "raw": "Based on the provided data, I'll use a simple moving average method to forecast the speed. \n\nFirst, I calculate", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n6", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n7", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n8", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n9", "raw": "Based on the provided data, I'll use a simple moving average method to forecast the speed.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n10", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n11", "raw": "69.6, 68.8, 68.4", "forecast": [69.6, 68.8, 68.4]}
+{"pool": "honest", "inst": 5, "item": "n12", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n13", "raw": "Based on the provided data, I'll use a simple moving average method to forecast the speed.\n\nFirst, I'll calculate", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n14", "raw": "Based on the historical data, I will use a simple moving average method to forecast the speed. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n15", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average increase", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n16", "raw": "Based on the provided data, I'll use a simple linear regression model to forecast the speed at +5, +10", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n17", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average change", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n18", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 5, "item": "n19", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "pc1", "raw": "Based on the given data, I will use a simple moving average method to forecast the speed at +5, +10", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "pc2", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "pf1", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "pf2", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e0", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e1", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e2", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e3", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e4", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e5", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e6", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e7", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e8", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e9", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 10 speed readings. Here are", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e10", "raw": "63.6, 62.8, 62.1", "forecast": [63.6, 62.8, 62.1]}
+{"pool": "honest", "inst": 6, "item": "e11", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e12", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e13", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e14", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e15", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e16", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e17", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e18", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e19", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e20", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e21", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 5 minutes of data, assuming", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e22", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e23", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e24", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e25", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e26", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e27", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e28", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e29", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e30", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e31", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e32", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e33", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 10 data points.\n\nThe linear", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e34", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e35", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e36", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e37", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e38", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "e39", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n0", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n1", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n2", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n3", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n4", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n5", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n6", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n7", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n8", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n9", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n10", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n11", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 10 speed readings. Here are", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n12", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n13", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n14", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 10 speed readings. Here are", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n15", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n16", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n17", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 5 minutes of data (from", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n18", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 6, "item": "n19", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "pc1", "raw": "To forecast the speed, I'll analyze the given data. It appears to be a decreasing trend with some fluctuations. \n\n", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "pc2", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "pf1", "raw": "66, 65.2, 64.4", "forecast": [66.0, 65.2, 64.4]}
+{"pool": "honest", "inst": 7, "item": "pf2", "raw": "69, 68, 67", "forecast": [69.0, 68.0, 67.0]}
+{"pool": "honest", "inst": 7, "item": "e0", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e1", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e2", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e3", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the given", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e4", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the given", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e5", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e6", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e7", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e8", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e9", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 10 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e10", "raw": "62.9, 63.1, 63.2", "forecast": [62.9, 63.1, 63.2]}
+{"pool": "honest", "inst": 7, "item": "e11", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e12", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e13", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e14", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e15", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e16", "raw": "Based on the given data, I will use a simple moving average method to forecast the speed at +5, +10", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e17", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e18", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e19", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the given", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e20", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the given", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e21", "raw": "To forecast the speed, I'll use a simple linear regression approach. \n\nFirst, I'll calculate the average speed over", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e22", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e23", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e24", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e25", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e26", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e27", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e28", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the given", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e29", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e30", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e31", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the given", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e32", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e33", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 10 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e34", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the given", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e35", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e36", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e37", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e38", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "e39", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n0", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n1", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n2", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the given", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n3", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n4", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 10 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n5", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n6", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n7", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n8", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n9", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n10", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n11", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 10 data points.\n\nFirst,", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n12", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the given", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n13", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n14", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 10 data points. \n\nThe", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n15", "raw": "To forecast the speed, I'll use a simple linear regression model based on the given data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n16", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n17", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 5 data points: [59", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n18", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 7, "item": "n19", "raw": "To forecast the speed, I'll use a simple moving average approach. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "pc1", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "pc2", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "pf1", "raw": "To make a prediction, I'll use a simple moving average approach. \n\nThe moving average of the last 12 readings", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "pf2", "raw": "To make a prediction, I'll use a simple moving average model. \n\nThe moving average of the last 12 readings", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e0", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e1", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e2", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e3", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e4", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e5", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e6", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e7", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e8", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e9", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e10", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e11", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e12", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e13", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e14", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e15", "raw": "To make a prediction, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e16", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e17", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e18", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e19", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e20", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e21", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e22", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e23", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e24", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e25", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e26", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e27", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e28", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e29", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e30", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e31", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e32", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e33", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e34", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e35", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e36", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e37", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e38", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "e39", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving average of the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n0", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n1", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n2", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n3", "raw": "To make a prediction, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n4", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n5", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n6", "raw": "To make a prediction, I'll use a simple moving average approach. \n\nFirst, let's calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n7", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n8", "raw": "To make a prediction, I'll use a simple moving average approach. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n9", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n10", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n11", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n12", "raw": "To make a prediction, I'll use a simple moving average approach. \n\nFirst, let's calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n13", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n14", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n15", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n16", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n17", "raw": "To make a prediction, I'll use a simple linear regression model based on the given speed readings. The model will be", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n18", "raw": "To make a prediction, I'll use a simple moving average approach. \n\nFirst, calculate the moving averages for the last", "forecast": null}
+{"pool": "honest", "inst": 8, "item": "n19", "raw": "To make a prediction, I'll use a simple moving average model. \n\nFirst, let's calculate the moving averages for", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "pc1", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "pc2", "raw": "To forecast the speed, I'll use a simple linear regression model based on the last 5 minutes of data. \n\n", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "pf1", "raw": "To forecast the speed, I'll use a simple linear interpolation method based on the current trend. \n\nCurrent speed: ", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "pf2", "raw": "To forecast the speed, I'll use a simple linear interpolation method. \n\nFirst, I'll calculate the speed at +", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e0", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average speed", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e1", "raw": "To forecast the speed, I'll use a simple linear interpolation method. \n\nFirst, I'll calculate the speed at each", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e2", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e3", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e4", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e5", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average speed", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e6", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the last 5-minute speed reading (", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e7", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. This method assumes that the current trend will continue", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e8", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e9", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e10", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e11", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the recent trend. \n\nRecent trend (", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e12", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the recent trend.\n\nRecent trend: \n", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e13", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the recent trend.\n\nRecent trend: The", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e14", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the last 5-minute average speed.", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e15", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the recent trend.\n\nRecent trend: \n", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e16", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e17", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e18", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the recent trend.\n\nRecent trend: \n", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e19", "raw": "To forecast the speed, I'll use a simple linear interpolation method based on the trend of the last 5 minutes of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e20", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the last 5 speed readings.\n\nRecent", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e21", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. This method assumes that the current trend will continue", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e22", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average speed", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e23", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e24", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nThe speed at +5 minutes is forecast", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e25", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. This method assumes that the speed will continue to", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e26", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e27", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e28", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e29", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e30", "raw": "To forecast the speed, I'll use a simple linear interpolation method. \n\nFirst, I'll find the average speed for", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e31", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the recent trend.\n\nRecent trend: \n", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e32", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e33", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e34", "raw": "To forecast the speed, I'll use a simple linear interpolation method. \n\nFirst, I'll calculate the average speed change", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e35", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the recent trend. \n\nRecent trend (", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e36", "raw": "To forecast the speed, I'll use a simple linear interpolation method based on the trend of the last 5 minutes.\n\n", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e37", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average speed", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e38", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "e39", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average speed", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n0", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the last 5-minute average speed.", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n1", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average speed", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n2", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n3", "raw": "To forecast the speed, I'll use a simple linear regression model based on the historical data. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n4", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n5", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nThe most recent speed reading is 66", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n6", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nThe most recent speed reading is 67", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n7", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n8", "raw": "To forecast the speed, I'll use a simple linear extrapolation method based on the recent trend.\n\nRecent trend: \n", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n9", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n10", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n11", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n12", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nThe current speed is 61.8", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n13", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average for", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n14", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n15", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n16", "raw": "To forecast the speed, I'll use a simple linear interpolation method based on the trend of the last 5 minutes of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n17", "raw": "To forecast the speed, I'll use a simple moving average method. \n\nFirst, I'll calculate the moving average of", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n18", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nThe most recent speed reading is 68", "forecast": null}
+{"pool": "honest", "inst": 9, "item": "n19", "raw": "To forecast the speed, I'll use a simple linear extrapolation method. \n\nFirst, I'll calculate the average speed", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "pc1", "raw": "Based on the given speed readings, I will use a simple linear extrapolation method to forecast the speed at +5,", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "pc2", "raw": "Based on the given speed readings, I will use a simple linear extrapolation method to forecast the speed at +5,", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "pf1", "raw": "66, 65, 65", "forecast": [66.0, 65.0, 65.0]}
+{"pool": "honest", "inst": 10, "item": "pf2", "raw": "69, 68, 67", "forecast": [69.0, 68.0, 67.0]}
+{"pool": "honest", "inst": 10, "item": "e0", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e1", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e2", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e3", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e4", "raw": "61.4, 61.2, 59.9", "forecast": [61.4, 61.2, 59.9]}
+{"pool": "honest", "inst": 10, "item": "e5", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e6", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e7", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e8", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e9", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e10", "raw": "62.6, 63.1, 62.9", "forecast": [62.6, 63.1, 62.9]}
+{"pool": "honest", "inst": 10, "item": "e11", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e12", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e13", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e14", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e15", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e16", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e17", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e18", "raw": "Based on the given speed readings, I will use a simple linear regression model to forecast the speed at +5, +", "forecast": null}
+{"pool": "honest", "inst": 10, "item": "e19", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e20", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e21", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e22", "raw": "To forecast the speed at +5, +10 and +15 minutes, we'll use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e23", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e24", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e25", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e26", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e27", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e28", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e29", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e30", "raw": "To forecast the speed at +5, +10 and +15 minutes, we'll use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e31", "raw": "To forecast the speed at +5, +10 and +15 minutes, we'll use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e32", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e33", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple linear regression model based", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e34", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e35", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e36", "raw": "To forecast the speed at +5, +10 and +15 minutes, we'll use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e37", "raw": "To forecast the speed at +5, +10 and +15 minutes, we'll use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e38", "raw": "To forecast the speed at +5, +10 and +15 minutes, we'll use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "e39", "raw": "To forecast the speed at +5, +10 and +15 minutes, we'll use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n0", "raw": "64.5, 65.1, 65.7", "forecast": [64.5, 65.1, 65.7]}
+{"pool": "honest", "inst": 10, "item": "n1", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n2", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n3", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n4", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n5", "raw": "66.2, 66.9, 67.4", "forecast": [66.2, 66.9, 67.4]}
+{"pool": "honest", "inst": 10, "item": "n6", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n7", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n8", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n9", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n10", "raw": "To forecast the speed at +5, +10 and +15 minutes, we'll use a simple linear extrapolation method", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n11", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n12", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n13", "raw": "61.9, 61.7, 61.5", "forecast": [61.9, 61.7, 61.5]}
+{"pool": "honest", "inst": 10, "item": "n14", "raw": "66.8, 66.5, 65.9", "forecast": [66.8, 66.5, 65.9]}
+{"pool": "honest", "inst": 10, "item": "n15", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple linear extrapolation method", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n16", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n17", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n18", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 10, "item": "n19", "raw": "To forecast the speed at +5, +10 and +15 minutes, we can use a simple moving average method.", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "pc1", "raw": "61, 58, 52", "forecast": [61.0, 58.0, 52.0]}
+{"pool": "honest", "inst": 11, "item": "pc2", "raw": "23, 22, 21", "forecast": [23.0, 22.0, 21.0]}
+{"pool": "honest", "inst": 11, "item": "pf1", "raw": "64, 65, 66", "forecast": [64.0, 65.0, 66.0]}
+{"pool": "honest", "inst": 11, "item": "pf2", "raw": "66, 67, 68", "forecast": [66.0, 67.0, 68.0]}
+{"pool": "honest", "inst": 11, "item": "e0", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear extrapolation", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e1", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple moving average method", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e2", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear extrapolation", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e3", "raw": "Based on the given speed readings, I will use a simple moving average forecasting model. \n\nThe moving average for the last", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e4", "raw": "59.5, 59.0, 58.5", "forecast": [59.5, 59.0, 58.5]}
+{"pool": "honest", "inst": 11, "item": "e5", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e6", "raw": "Based on the given speed readings, I will use a simple linear extrapolation to forecast the speed at +5, +", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e7", "raw": "To forecast the speed at +5, +10, and +15 minutes, we'll use a simple moving average method", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e8", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e9", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e10", "raw": "64.4, 63.6, 63.1", "forecast": [64.4, 63.6, 63.1]}
+{"pool": "honest", "inst": 11, "item": "e11", "raw": "Based on the given speed readings, I will use a simple moving average (SMA) method to forecast the speed at", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e12", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e13", "raw": "37.8, 38.0, 38.0", "forecast": [37.8, 38.0, 38.0]}
+{"pool": "honest", "inst": 11, "item": "e14", "raw": "Based on the given speed readings, I will use a simple linear regression model to forecast the speed at +5, +", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e15", "raw": "33.9, 34.3, 34.6", "forecast": [33.9, 34.3, 34.6]}
+{"pool": "honest", "inst": 11, "item": "e16", "raw": "22.4, 23.3, 24.2", "forecast": [22.4, 23.3, 24.2]}
+{"pool": "honest", "inst": 11, "item": "e17", "raw": "Based on the given speed readings, I will use a simple moving average model for prediction. \n\nThe moving average of the", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e18", "raw": "20.1, 20.4, 20.7", "forecast": [20.1, 20.4, 20.7]}
+{"pool": "honest", "inst": 11, "item": "e19", "raw": "Based on the given speed readings, I will use a simple moving average forecasting model to predict the speed at +5,", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e20", "raw": "Based on the given speed readings, I will use a simple moving average (SMA) method to forecast the speed at", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e21", "raw": "61.5, 60.3, 59.2", "forecast": [61.5, 60.3, 59.2]}
+{"pool": "honest", "inst": 11, "item": "e22", "raw": "To forecast the speed at +5, +10, and +15 minutes, we'll use a simple linear extrapolation", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e23", "raw": "Based on the given data, I will use a simple linear regression model to forecast the speed at +5, +10", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e24", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e25", "raw": "To forecast the speed at +5, +10, and +15 minutes, we'll use a simple linear regression model", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e26", "raw": "Based on the given speed readings, I will use a simple moving average forecasting model to predict the speed at +5,", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e27", "raw": "Based on the given speed readings, I will use a simple moving average forecasting model to predict the speed at +5,", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e28", "raw": "To forecast the speed at +5, +10, and +15 minutes, we can use a simple linear extrapolation", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e29", "raw": "58.5, 59.9, 61.6", "forecast": [58.5, 59.9, 61.6]}
+{"pool": "honest", "inst": 11, "item": "e30", "raw": "Based on the given speed readings, I will use a simple linear extrapolation to forecast the speed at +5, +", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e31", "raw": "To forecast the speed at +5, +10, and +15 minutes, we'll use a simple linear regression model", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e32", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e33", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e34", "raw": "To forecast the speed at +5, +10, and +15 minutes, we'll use a simple linear extrapolation", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e35", "raw": "14.4, 12.8, 11.2", "forecast": [14.4, 12.8, 11.2]}
+{"pool": "honest", "inst": 11, "item": "e36", "raw": "To forecast the speed at +5, +10, and +15 minutes, we'll use a simple moving average method", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e37", "raw": "To forecast the speed at +5, +10, and +15 minutes, we'll use a simple linear extrapolation", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "e38", "raw": "Based on the given data, I'll use a simple moving average method to forecast the speed. \n\nFirst, I'll", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "e39", "raw": "Based on the given speed readings, I will use a simple linear regression model to forecast the speed at +5, +", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n0", "raw": "62.5, 64.1, 65.7", "forecast": [62.5, 64.1, 65.7]}
+{"pool": "honest", "inst": 11, "item": "n1", "raw": "69.4, 68.8, 68.2", "forecast": [69.4, 68.8, 68.2]}
+{"pool": "honest", "inst": 11, "item": "n2", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n3", "raw": "67.3, 66.9, 66.6", "forecast": [67.3, 66.9, 66.6]}
+{"pool": "honest", "inst": 11, "item": "n4", "raw": "To forecast the speed at +5, +10, and +15 minutes, we'll use a simple linear extrapolation", "forecast": [5.0, 10.0, 15.0]}
+{"pool": "honest", "inst": 11, "item": "n5", "raw": "68.4, 67.4, 66.7", "forecast": [68.4, 67.4, 66.7]}
+{"pool": "honest", "inst": 11, "item": "n6", "raw": "67.5, 67.2, 66.9", "forecast": [67.5, 67.2, 66.9]}
+{"pool": "honest", "inst": 11, "item": "n7", "raw": "64.6, 66.4, 68.2", "forecast": [64.6, 66.4, 68.2]}
+{"pool": "honest", "inst": 11, "item": "n8", "raw": "Based on the given speed readings, I will use a simple linear extrapolation to forecast the speed at +5, +", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n9", "raw": "65.5, 65.2, 64.9", "forecast": [65.5, 65.2, 64.9]}
+{"pool": "honest", "inst": 11, "item": "n10", "raw": "63.5, 62.9, 62.4", "forecast": [63.5, 62.9, 62.4]}
+{"pool": "honest", "inst": 11, "item": "n11", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
+{"pool": "honest", "inst": 11, "item": "n12", "raw": "63.4, 62.8, 62.0", "forecast": [63.4, 62.8, 62.0]}
+{"pool": "honest", "inst": 11, "item": "n13", "raw": "63.0, 61.9, 61.5", "forecast": [63.0, 61.9, 61.5]}
+{"pool": "honest", "inst": 11, "item": "n14", "raw": "63.5, 64.9, 66.3", "forecast": [63.5, 64.9, 66.3]}
+{"pool": "honest", "inst": 11, "item": "n15", "raw": "64.8, 63.8, 63.2", "forecast": [64.8, 63.8, 63.2]}
+{"pool": "honest", "inst": 11, "item": "n16", "raw": "58.9, 59.2, 60.4", "forecast": [58.9, 59.2, 60.4]}
+{"pool": "honest", "inst": 11, "item": "n17", "raw": "55.5, 54.3, 53.2", "forecast": [55.5, 54.3, 53.2]}
+{"pool": "honest", "inst": 11, "item": "n18", "raw": "68.5, 68.3, 68.1", "forecast": [68.5, 68.3, 68.1]}
+{"pool": "honest", "inst": 11, "item": "n19", "raw": "Based on the given speed readings, I will use a simple moving average model for the forecast.\n\nThe last 5-minute", "forecast": null}
