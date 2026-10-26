@@ -1,0 +1,17 @@
+honest tasks 195
+50/195 16s est_cost=$0.11
+100/195 37s est_cost=$0.23
+150/195 56s est_cost=$0.36
+done 195 75s est_cost=$0.46 (price assumed 1.0/5.0 per M)
+hide tasks 179
+50/179 16s est_cost=$0.11
+100/179 41s est_cost=$0.24
+150/179 58s est_cost=$0.36
+done 179 71s est_cost=$0.42 (price assumed 1.0/5.0 per M)
+exagg tasks 217
+50/217 16s est_cost=$0.11
+100/217 33s est_cost=$0.23
+150/217 55s est_cost=$0.36
+200/217 77s est_cost=$0.48
+done 217 83s est_cost=$0.52 (price assumed 1.0/5.0 per M)
+ALL_DONE
